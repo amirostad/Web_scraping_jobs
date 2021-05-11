@@ -7,4 +7,4 @@ Created on Tue May 11 11:50:19 2021
 
 import glassdoor_scraper as gs
 
-df = gs.get_jobs()
+df = gs.get_jobs(num_jobs=30)
