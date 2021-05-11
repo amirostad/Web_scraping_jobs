@@ -13,7 +13,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 import time
 import pandas as pd
-# import snoop
+import snoop
 
 # DRIVER_PATH = 'chromedriver'
 # options = Options()
@@ -54,7 +54,7 @@ import pandas as pd
 # time.sleep(10)
 
 ##############################################################################
-# @snoop # snoop shows the line of a function being executed
+@snoop # snoop shows the line of a function being executed
 def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=1000, verbose=True, DRIVER_PATH = 'chromedriver', slp_time=15):
     
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
@@ -85,8 +85,8 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=1000, verbose=True, DRI
             pass
 
         
-        #Going through each job in this page
-        job_buttons = driver.find_elements_by_xpath("//ul//li//div//div//a//span")   #Job Listing. These are the buttons we're going to click.
+        # Going through each job in this page
+        job_buttons = driver.find_elements_by_xpath("//ul//li//div//div//a//span")   # Job Listing. These are the buttons we're going to click.
         # print("job_buttons length: ".format(len(job_buttons)))
         for job_button in job_buttons:  
 
@@ -94,16 +94,15 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=1000, verbose=True, DRI
             if len(jobs) >= num_jobs:
                 break
 
-            job_button.click()  #You might 
+            job_button.click()  # You might 
             time.sleep(1)
             collected_successfully = False
             
             while not collected_successfully:
                 try:
-                    company_name = driver.find_element_by_xpath('.//div[@class="employerName"]').text
-                    location = driver.find_element_by_xpath('.//div[@class="location"]').text
-                    job_title = driver.find_element_by_xpath('.//div[contains(@class, "title")]').text
-                    job_description = driver.find_element_by_xpath('.//div[@class="jobDescriptionContent desc"]').text
+                    company_name = driver.find_element_by_xpath('//*[@id="JDCol"]/div/article/div/div[1]/div/div/div[1]/div[3]/div[1]/div[1]').text
+                    location = driver.find_element_by_xpath('//*[@id="JDCol"]/div/article/div/div[1]/div/div/div[1]/div[3]/div[1]/div[3]').text
+                    job_title = driver.find_element_by_xpath('.//*[@id="JDCol"]/div/article/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]').text
                     collected_successfully = True
                 except:
                     time.sleep(5)
@@ -111,7 +110,7 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=1000, verbose=True, DRI
             try:
                 salary_estimate = driver.find_element_by_xpath('.//span[@class="gray salary"]').text
             except NoSuchElementException:
-                salary_estimate = -1 #You need to set a "not found value. It's important."
+                salary_estimate = -1 # You need to set a "not found value. It's important."
             
             try:
                 rating = driver.find_element_by_xpath('.//span[@class="rating"]').text
