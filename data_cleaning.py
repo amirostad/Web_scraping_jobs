@@ -28,6 +28,11 @@ def get_clean_dataframe(num_jobs=100):
     ## Add min, max, and average salary columns and cast them into integer type
     df['Min_salary'] = df['Salary Estimate'].apply(lambda x: int(x.split()[0]))
     df['Max_salary'] = df['Salary Estimate'].apply(lambda x: int(x.split()[2]))
+    
+    ### Convert hourly wages to annual
+    df['Min_salary'] = df.apply(lambda x: x.Min_salary if x.Hourly == 0 else x.Min_salary*2.05, axis=1)
+    df['Max_salary'] = df.apply(lambda x: x.Max_salary if x.Hourly == 0 else x.Max_salary*2.05, axis=1)
+    
     df['Average_salary'] = (df.Min_salary + df.Max_salary)/2
     
     ## Remove the initial salary estimate column
@@ -75,7 +80,7 @@ def get_clean_dataframe(num_jobs=100):
             return 'analyst'
         else:
             return 'other'
-    df['Title'] = df['Job Title'].apply(lambda x: title_organizer(x))
+    df['Title'] = df['Job Title'].apply(title_organizer)
     
     #%% Senior position?
     
@@ -87,7 +92,7 @@ def get_clean_dataframe(num_jobs=100):
             return 'junior'
         else:
             return 'other'
-    df['Seniority'] = df['Job Title'].apply(lambda x: senior_junior(x))        
+    df['Seniority'] = df['Job Title'].apply(senior_junior)        
     
     #%% Drop unwanted columns, reorder the remining columns, and write the dataframe to csv format
     
