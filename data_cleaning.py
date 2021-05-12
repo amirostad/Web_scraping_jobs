@@ -9,9 +9,9 @@ import pandas as pd
 
 def get_clean_dataframe(num_jobs=100):
     
-    df = gs.get_jobs(num_jobs=num_jobs)
+    # df = gs.get_jobs(num_jobs=num_jobs)
     
-    # df = pd.read_csv('/data/df.csv')
+    df = pd.read_csv('./data/df.csv')
     
     #%% Salary
     
@@ -55,17 +55,52 @@ def get_clean_dataframe(num_jobs=100):
     df['Company_age'] = df['Founded'].apply(lambda x: 2021-int(x) if int(x)>0 else -1)
     
     
+    #%% Organize job titles
+    
+    def title_organizer(x):
+        x = x.lower()
+        if 'data scientist' in x:
+            return 'data scientist'
+        elif 'data engineer' in x:
+            return 'data engineer'
+        elif 'deep learning' in x:
+            return 'deep learning engineer'
+        elif 'machine learning' in x:
+            return 'machine learning engineer'
+        elif 'director' in x:
+            return 'director'
+        elif 'manager' in x:
+            return 'manager'
+        elif 'analyst' in x:
+            return 'analyst'
+        else:
+            return 'other'
+    df['Title'] = df['Job Title'].apply(lambda x: title_organizer(x))
+    
+    #%% Senior position?
+    
+    def senior_junior(x):
+        x = x.lower()
+        if 'sr' in x or 'senior' in x or 'sr.' in x or 'lead' in x or 'principal' in x:
+            return 'senior'
+        elif 'jr' in x or 'junior' in x or 'jr.' in x:
+            return 'junior'
+        else:
+            return 'other'
+    df['Seniority'] = df['Job Title'].apply(lambda x: senior_junior(x))        
+    
     #%% Drop unwanted columns, reorder the remining columns, and write the dataframe to csv format
     
     df.drop(['Company Name', 'Location', 'Size', 'Founded', 'Job Title', 
              'Type of ownership', 'Industry', 'Sector', 'Revenue'], inplace=True,
             axis=1)
     
-    df = df.reindex(columns=['Average_salary', 'Rating', 'Hourly', 
+    df = df.reindex(columns=['Average_salary', 'Title','Seniority', 
+                             'Rating', 'Hourly', 
                              'Employer_provided', 'Min_salary',
                              'Max_salary', 'Company_age', 'State'])
     
-    df.to_csv('df_cleaned.csv', index=False)
+    df.to_csv('./data/df_cleaned.csv', index=False)
     
     return df
     
