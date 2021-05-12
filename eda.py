@@ -26,5 +26,7 @@ def get_correlation(df):
     
 def get_countplot(df):
     for col in df.select_dtypes(include=['object']).columns:
-        sns.countplot(x=col, data=df, hue=col)
+        ax = sns.countplot(x=col, data=df, 
+                           order=df[col].value_counts().index)
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
         plt.show()

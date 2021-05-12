@@ -1,93 +1,93 @@
-Average_salary,Title,Seniority,Rating,Hourly,Employer_provided,Min_salary,Max_salary,Company_age,State
-104.5,data scientist,other,4.3,0,0,72.0,137.0,36,TX
-113.5,data scientist,other,3.9,0,0,79.0,148.0,171,VA
-61.5,other,other,3.5,0,0,39.0,84.0,179,WI
-113.5,data scientist,other,3.9,0,0,79.0,148.0,171,DC
-104.5,data scientist,other,2.6,0,0,68.0,141.0,65,VA
-97.0,other,other,3.6,0,0,66.0,128.0,19,NY
-120.0,data scientist,other,3.9,0,0,86.0,154.0,171,VA
-61.5,analyst,other,4.1,0,0,44.0,79.0,-1,FL
-90.0,data scientist,other,2.8,0,0,67.0,113.0,36,GA
-133.0,data scientist,other,3.5,0,0,96.0,170.0,24,MA
-82.5,other,senior,3.5,0,0,68.0,97.0,179,MN
-130.0,data scientist,other,4.7,0,0,100.0,160.0,79,MD
-80.0,data engineer,other,3.5,0,0,54.0,106.0,106,NE
-74.5,other,other,3.8,0,0,51.0,98.0,119,CA
-71.5,other,other,3.4,0,0,47.0,96.0,161,KY
-100.0,data scientist,other,3.5,0,0,75.0,125.0,85,MD
-81.5,other,other,2.8,0,0,50.0,113.0,52,IA
-97.0,other,other,3.6,0,0,66.0,128.0,19,NY
-107.5,data scientist,senior,3.7,0,0,73.0,142.0,5,TX
-115.5,other,senior,3.7,0,0,76.0,155.0,-1,CT
-83.5,data engineer,other,3.7,0,0,56.0,111.0,82,UT
-108.5,data scientist,other,4.2,0,0,75.0,142.0,107,VA
-105.0,data scientist,other,3.8,0,0,77.0,133.0,34,MD
-72.0,data engineer,junior,3.3,0,0,49.0,95.0,89,IL
-143.0,other,senior,-1.0,0,0,120.0,166.0,-1,MA
-140.5,data scientist,senior,3.9,0,0,98.0,183.0,171,AZ
-90.0,other,other,4.7,0,0,62.0,118.0,79,MD
-72.5,other,other,-1.0,0,0,61.0,84.0,-1,IN
-119.0,data scientist,other,3.5,0,0,88.0,150.0,-1,CA
-131.0,data scientist,other,4.0,0,0,86.0,176.0,4,VA
-81.5,data scientist,other,3.3,0,0,61.0,102.0,30,AZ
-113.0,other,senior,-1.0,0,0,69.0,157.0,-1,PA
-82.0,other,other,-1.0,0,0,57.0,107.0,-1,NH
-59.5,analyst,other,3.4,0,0,40.0,79.0,-1,AK
-107.0,data engineer,other,3.4,0,0,73.0,141.0,13,VA
-85.0,other,other,3.9,0,0,58.0,112.0,110,PA
-69.0,data scientist,other,4.0,0,0,61.0,77.0,24,VA
-136.0,data scientist,other,3.9,0,0,92.0,180.0,171,VA
-120.5,data scientist,senior,3.7,0,0,81.0,160.0,113,NM
-79.0,other,senior,-1.0,0,0,55.0,103.0,-1,PA
-128.5,data scientist,senior,4.2,0,0,100.0,157.0,75,MA
-62.0,analyst,other,3.1,0,0,44.0,80.0,31,AZ
-45.5,analyst,other,3.7,0,0,32.0,59.0,76,OH
-98.0,other,other,-1.0,0,0,64.0,132.0,-1,MA
-85.0,other,other,4.9,0,0,61.0,109.0,47,MA
-64.57499999999999,other,other,3.8,1,0,49.199999999999996,79.94999999999999,128,NY
-110.0,data scientist,other,3.5,0,0,81.0,139.0,19,AZ
-72.0,other,other,3.6,0,0,48.0,96.0,-1,CA
-116.0,other,senior,-1.0,0,0,96.0,136.0,-1,NJ
-67.0,other,other,-1.0,0,0,48.0,86.0,-1,PA
-66.5,other,other,-1.0,0,0,45.0,88.0,-1,MT
-78.5,analyst,other,-1.0,0,0,50.0,107.0,-1,CA
-78.0,other,other,3.5,0,0,56.0,100.0,14,KY
-80.0,other,other,2.8,0,0,57.0,103.0,-1,RI
-117.0,data scientist,senior,4.2,0,0,85.0,149.0,107,VA
-115.5,data scientist,other,3.9,0,0,80.0,151.0,52,DC
-84.5,data scientist,other,4.4,0,0,52.0,117.0,63,FL
-94.5,data scientist,other,4.3,0,0,69.0,120.0,26,MD
-111.5,data scientist,senior,4.0,0,0,88.0,135.0,211,CT
-125.0,data scientist,senior,4.2,0,0,90.0,160.0,46,IL
-94.5,data scientist,other,4.3,0,0,69.0,120.0,26,MD
-101.5,data scientist,other,3.6,0,0,75.0,128.0,17,RI
-86.0,data scientist,other,3.8,0,0,65.0,107.0,173,ME
-87.0,data engineer,other,-1.0,0,0,60.0,114.0,-1,WI
-97.0,other,other,-1.0,0,0,70.0,124.0,-1,VA
-77.0,manager,other,4.3,0,0,52.0,102.0,9,TN
-81.5,other,other,3.7,0,0,58.0,105.0,92,CT
-121.5,manager,other,3.1,0,0,82.0,161.0,-1,MA
-108.5,other,senior,-1.0,0,0,71.0,146.0,-1,MA
-92.0,data engineer,other,3.2,0,0,74.0,110.0,109,NJ
-72.0,analyst,other,3.6,0,1,65.0,79.0,41,WI
-100.5,other,senior,3.5,0,0,86.0,115.0,179,CA
-139.5,data scientist,senior,3.3,0,0,98.0,181.0,-1,MA
-89.0,data scientist,other,3.1,0,0,65.0,113.0,102,MA
-88.0,other,other,3.4,0,0,60.0,116.0,34,CA
-78.0,analyst,other,4.6,0,0,50.0,106.0,57,AL
-66.5,analyst,other,3.6,0,0,45.0,88.0,51,DE
-111.0,data engineer,senior,3.5,0,0,81.0,141.0,85,MD
-122.5,other,senior,-1.0,0,0,76.0,169.0,-1,NJ
-97.5,data scientist,senior,4.0,0,0,65.0,130.0,52,MD
-99.0,other,senior,3.7,0,0,69.0,129.0,92,CT
-71.5,other,other,3.2,0,0,50.0,93.0,21,NY
-98.0,data scientist,other,3.9,0,0,75.0,121.0,45,MA
-38.0,other,other,4.2,0,0,27.0,49.0,-1,TN
-85.5,manager,other,3.8,0,0,57.0,114.0,92,MA
-72.0,analyst,other,3.6,0,1,65.0,79.0,41,WI
-87.0,data scientist,other,4.1,0,0,66.0,108.0,156,MO
-87.0,data scientist,other,3.8,0,0,63.0,111.0,53,FL
-137.5,data scientist,other,4.1,0,0,92.0,183.0,15,DC
-71.0,other,other,3.5,0,0,52.0,90.0,14,KY
-85.0,other,other,-1.0,0,0,53.0,117.0,-1,MA
-64.0,analyst,other,3.6,0,0,44.0,84.0,41,IN
+Average_salary,Title,Seniority,Rating,Hourly,Employer_provided,Min_salary,Max_salary,Company_age,Industry,Size,State
+104.5,data scientist,other,4.3,0,0,72.0,137.0,36,Enterprise Software & Network Solutions,5001 to 10000 Employees,TX
+113.5,data scientist,other,3.9,0,0,79.0,148.0,171,Accounting,10000+ Employees,VA
+61.5,other,other,3.5,0,0,39.0,84.0,179,Biotech & Pharmaceuticals,1001 to 5000 Employees,WI
+113.5,data scientist,other,3.9,0,0,79.0,148.0,171,Accounting,10000+ Employees,DC
+104.5,data scientist,other,2.6,0,0,68.0,141.0,65,Aerospace & Defense,501 to 1000 Employees,VA
+97.0,other,other,3.6,0,0,66.0,128.0,19,Biotech & Pharmaceuticals,5001 to 10000 Employees,NY
+120.0,data scientist,other,3.9,0,0,86.0,154.0,171,Accounting,10000+ Employees,VA
+61.5,analyst,other,4.1,0,0,44.0,79.0,-1,Insurance,1001 to 5000 Employees,FL
+90.0,data scientist,other,2.8,0,0,67.0,113.0,36,Insurance Carriers,201 to 500 Employees,GA
+133.0,data scientist,other,3.5,0,0,96.0,170.0,24,Enterprise Software & Network Solutions,1001 to 5000 Employees,MA
+82.5,other,senior,3.5,0,0,68.0,97.0,179,Biotech & Pharmaceuticals,1001 to 5000 Employees,MN
+130.0,data scientist,other,4.7,0,0,100.0,160.0,79,Aerospace & Defense,5001 to 10000 Employees,MD
+80.0,data engineer,other,3.5,0,0,54.0,106.0,106,Computer Hardware & Software,201 to 500 Employees,NE
+74.5,other,other,3.8,0,0,51.0,98.0,119,Biotech & Pharmaceuticals,10000+ Employees,CA
+71.5,other,other,3.4,0,0,47.0,96.0,161,Utilities,201 to 500 Employees,KY
+100.0,data scientist,other,3.5,0,0,75.0,125.0,85,Insurance Carriers,10000+ Employees,MD
+81.5,other,other,2.8,0,0,50.0,113.0,52,Miscellaneous Manufacturing,501 to 1000 Employees,IA
+97.0,other,other,3.6,0,0,66.0,128.0,19,Biotech & Pharmaceuticals,5001 to 10000 Employees,NY
+107.5,data scientist,senior,3.7,0,0,73.0,142.0,5,Enterprise Software & Network Solutions,51 to 200 Employees,TX
+115.5,other,senior,3.7,0,0,76.0,155.0,-1,-1,1 to 50 Employees,CT
+83.5,data engineer,other,3.7,0,0,56.0,111.0,82,Investment Banking & Asset Management,1001 to 5000 Employees,UT
+108.5,data scientist,other,4.2,0,0,75.0,142.0,107,Consulting,10000+ Employees,VA
+105.0,data scientist,other,3.8,0,0,77.0,133.0,34,"Health, Beauty, & Fitness",51 to 200 Employees,MD
+72.0,data engineer,junior,3.3,0,0,49.0,95.0,89,Logistics & Supply Chain,5001 to 10000 Employees,IL
+143.0,other,senior,-1.0,0,0,120.0,166.0,-1,-1,-1,MA
+140.5,data scientist,senior,3.9,0,0,98.0,183.0,171,Accounting,10000+ Employees,AZ
+90.0,other,other,4.7,0,0,62.0,118.0,79,Aerospace & Defense,5001 to 10000 Employees,MD
+72.5,other,other,-1.0,0,0,61.0,84.0,-1,-1,-1,IN
+119.0,data scientist,other,3.5,0,0,88.0,150.0,-1,-1,1 to 50 Employees,CA
+131.0,data scientist,other,4.0,0,0,86.0,176.0,4,IT Services,5001 to 10000 Employees,VA
+81.5,data scientist,other,3.3,0,0,61.0,102.0,30,IT Services,10000+ Employees,AZ
+113.0,other,senior,-1.0,0,0,69.0,157.0,-1,-1,-1,PA
+82.0,other,other,-1.0,0,0,57.0,107.0,-1,-1,-1,NH
+59.5,analyst,other,3.4,0,0,40.0,79.0,-1,-1,51 to 200 Employees,AK
+107.0,data engineer,other,3.4,0,0,73.0,141.0,13,Enterprise Software & Network Solutions,51 to 200 Employees,VA
+85.0,other,other,3.9,0,0,58.0,112.0,110,Electrical & Electronic Manufacturing,10000+ Employees,PA
+69.0,data scientist,other,4.0,0,0,61.0,77.0,24,Consulting,201 to 500 Employees,VA
+136.0,data scientist,other,3.9,0,0,92.0,180.0,171,Accounting,10000+ Employees,VA
+120.5,data scientist,senior,3.7,0,0,81.0,160.0,113,Health Care Services & Hospitals,10000+ Employees,NM
+79.0,other,senior,-1.0,0,0,55.0,103.0,-1,-1,-1,PA
+128.5,data scientist,senior,4.2,0,0,100.0,157.0,75,Investment Banking & Asset Management,10000+ Employees,MA
+62.0,analyst,other,3.1,0,0,44.0,80.0,31,Logistics & Supply Chain,5001 to 10000 Employees,AZ
+45.5,analyst,other,3.7,0,0,32.0,59.0,76,Industrial Manufacturing,10000+ Employees,OH
+98.0,other,other,-1.0,0,0,64.0,132.0,-1,-1,-1,MA
+85.0,other,other,4.9,0,0,61.0,109.0,47,Biotech & Pharmaceuticals,201 to 500 Employees,MA
+64.57499999999999,other,other,3.8,1,0,49.199999999999996,79.94999999999999,128,Health Care Services & Hospitals,1001 to 5000 Employees,NY
+110.0,data scientist,other,3.5,0,0,81.0,139.0,19,Lending,1001 to 5000 Employees,AZ
+72.0,other,other,3.6,0,0,48.0,96.0,-1,Government,501 to 1000 Employees,CA
+116.0,other,senior,-1.0,0,0,96.0,136.0,-1,-1,-1,NJ
+67.0,other,other,-1.0,0,0,48.0,86.0,-1,-1,-1,PA
+66.5,other,other,-1.0,0,0,45.0,88.0,-1,-1,-1,MT
+78.5,analyst,other,-1.0,0,0,50.0,107.0,-1,-1,-1,CA
+78.0,other,other,3.5,0,0,56.0,100.0,14,Biotech & Pharmaceuticals,10000+ Employees,KY
+80.0,other,other,2.8,0,0,57.0,103.0,-1,Manufacturing,51 to 200 Employees,RI
+117.0,data scientist,senior,4.2,0,0,85.0,149.0,107,Consulting,10000+ Employees,VA
+115.5,data scientist,other,3.9,0,0,80.0,151.0,52,Aerospace & Defense,10000+ Employees,DC
+84.5,data scientist,other,4.4,0,0,52.0,117.0,63,Wholesale,51 to 200 Employees,FL
+94.5,data scientist,other,4.3,0,0,69.0,120.0,26,Consulting,51 to 200 Employees,MD
+111.5,data scientist,senior,4.0,0,0,88.0,135.0,211,Insurance Carriers,10000+ Employees,CT
+125.0,data scientist,senior,4.2,0,0,90.0,160.0,46,Computer Hardware & Software,1 to 50 Employees,IL
+94.5,data scientist,other,4.3,0,0,69.0,120.0,26,Consulting,51 to 200 Employees,MD
+101.5,data scientist,other,3.6,0,0,75.0,128.0,17,Enterprise Software & Network Solutions,1001 to 5000 Employees,RI
+86.0,data scientist,other,3.8,0,0,65.0,107.0,173,Insurance Carriers,5001 to 10000 Employees,ME
+87.0,data engineer,other,-1.0,0,0,60.0,114.0,-1,-1,-1,WI
+97.0,other,other,-1.0,0,0,70.0,124.0,-1,-1,-1,VA
+77.0,manager,other,4.3,0,0,52.0,102.0,9,Advertising & Marketing,51 to 200 Employees,TN
+81.5,other,other,3.7,0,0,58.0,105.0,92,Biotech & Pharmaceuticals,1001 to 5000 Employees,CT
+121.5,manager,other,3.1,0,0,82.0,161.0,-1,-1,1 to 50 Employees,MA
+108.5,other,senior,-1.0,0,0,71.0,146.0,-1,-1,-1,MA
+92.0,data engineer,other,3.2,0,0,74.0,110.0,109,Social Assistance,1001 to 5000 Employees,NJ
+72.0,analyst,other,3.6,0,1,65.0,79.0,41,Industrial Manufacturing,5001 to 10000 Employees,WI
+100.5,other,senior,3.5,0,0,86.0,115.0,179,Biotech & Pharmaceuticals,1001 to 5000 Employees,CA
+139.5,data scientist,senior,3.3,0,0,98.0,181.0,-1,Retail,501 to 1000 Employees,MA
+89.0,data scientist,other,3.1,0,0,65.0,113.0,102,Health Care Products Manufacturing,10000+ Employees,MA
+88.0,other,other,3.4,0,0,60.0,116.0,34,Biotech & Pharmaceuticals,10000+ Employees,CA
+78.0,analyst,other,4.6,0,0,50.0,106.0,57,Construction,1001 to 5000 Employees,AL
+66.5,analyst,other,3.6,0,0,45.0,88.0,51,Health Care Services & Hospitals,10000+ Employees,DE
+111.0,data engineer,senior,3.5,0,0,81.0,141.0,85,Insurance Carriers,10000+ Employees,MD
+122.5,other,senior,-1.0,0,0,76.0,169.0,-1,-1,-1,NJ
+97.5,data scientist,senior,4.0,0,0,65.0,130.0,52,Industrial Manufacturing,1001 to 5000 Employees,MD
+99.0,other,senior,3.7,0,0,69.0,129.0,92,Biotech & Pharmaceuticals,1001 to 5000 Employees,CT
+71.5,other,other,3.2,0,0,50.0,93.0,21,Electrical & Electronic Manufacturing,501 to 1000 Employees,NY
+98.0,data scientist,other,3.9,0,0,75.0,121.0,45,Banks & Credit Unions,5001 to 10000 Employees,MA
+38.0,other,other,4.2,0,0,27.0,49.0,-1,-1,51 to 200 Employees,TN
+85.5,manager,other,3.8,0,0,57.0,114.0,92,Health Care Services & Hospitals,Unknown,MA
+72.0,analyst,other,3.6,0,1,65.0,79.0,41,Industrial Manufacturing,5001 to 10000 Employees,WI
+87.0,data scientist,other,4.1,0,0,66.0,108.0,156,Banks & Credit Unions,1001 to 5000 Employees,MO
+87.0,data scientist,other,3.8,0,0,63.0,111.0,53,Financial Transaction Processing,10000+ Employees,FL
+137.5,data scientist,other,4.1,0,0,92.0,183.0,15,Federal Agencies,501 to 1000 Employees,DC
+71.0,other,other,3.5,0,0,52.0,90.0,14,Biotech & Pharmaceuticals,10000+ Employees,KY
+85.0,other,other,-1.0,0,0,53.0,117.0,-1,-1,-1,MA
+64.0,analyst,other,3.6,0,0,44.0,84.0,41,General Repair & Maintenance,201 to 500 Employees,IN

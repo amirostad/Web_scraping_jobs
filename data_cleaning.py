@@ -96,14 +96,14 @@ def get_clean_dataframe(num_jobs=100):
     
     #%% Drop unwanted columns, reorder the remining columns, and write the dataframe to csv format
     
-    df.drop(['Company Name', 'Location', 'Size', 'Founded', 'Job Title', 
-             'Type of ownership', 'Industry', 'Sector', 'Revenue'], inplace=True,
+    df.drop(['Company Name', 'Location', 'Founded', 'Job Title', 
+             'Type of ownership', 'Sector', 'Revenue'], inplace=True,
             axis=1)
     
     df = df.reindex(columns=['Average_salary', 'Title','Seniority', 
-                             'Rating', 'Hourly', 
-                             'Employer_provided', 'Min_salary',
-                             'Max_salary', 'Company_age', 'State'])
+                             'Rating', 'Hourly', 'Employer_provided', 
+                             'Min_salary', 'Max_salary', 'Company_age', 
+                             'Industry', 'Size', 'State'])
     
     df.to_csv('./data/df_cleaned.csv', index=False)
     
