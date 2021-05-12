@@ -145,7 +145,6 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False, DRIV
                 print("Industry: {}".format(industry))
                 print("Sector: {}".format(sector))
                 print("Revenue: {}".format(revenue))
-                print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
 
             jobs.append({"Job Title" : job_title,
             "Salary Estimate" : salary_estimate,
