@@ -13,6 +13,15 @@ from sklearn.model_selection import GridSearchCV
 
 def get_model(X):
     
+    """Train and optimize model
+    arg:
+        Dataframe X: preprocessed dataframe of jobs
+    
+    return:
+        regression model
+        
+    """
+    
     rf = RandomForestRegressor(criterion='mse')
 
     # extracting the response variable

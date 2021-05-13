@@ -12,7 +12,11 @@ def get_features(X):
     Fills in the null values for numerical values.
     Creates dummies for categorical variables.
     Produces the final feature matrix, X.
-    Returns X.
+    
+    arg:
+        Dataframe X: dataframe of raw features
+    returns:
+        Dataframe X: dataframe of preprocessed features
     """
     print(20 * "*" + " data cleaning initiated!")
     

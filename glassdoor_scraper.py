@@ -23,9 +23,21 @@ import pandas as pd
 import snoop
 
 @snoop # snoop shows the line of a function being executed
-def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False, DRIVER_PATH = 'chromedriver', slp_time=3):
+def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False, 
+             DRIVER_PATH = 'chromedriver', slp_time=3):
     
-    '''Gathers jobs as a dataframe, scraped from Glassdoor'''
+    '''Gathers jobs as a dataframe, scraped from Glassdoor
+    
+    args:
+        string job_to_lookfor: name of the desirable job in glassdoor format
+        int num_jobs: number of jobs you would like to scrape
+        bool verbose: show details of the scraping or not
+        string DRIVER_PATH: path to browser drive .exe
+        int slp_time: waiting time in seconds
+        
+    return:
+        a raw dataframe of scraped jobs
+    '''
     
     options = Options()
     options.headless = False # With (FALSE) or without (TRUE) user interface

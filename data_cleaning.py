@@ -8,6 +8,16 @@ import glassdoor_scraper as gs
 import pandas as pd
 
 def get_clean_dataframe(num_jobs=100):
+    """
+    Gets raw dataframe directly from glassdoor_scraper.py or from a csv file.
+    Cleans the raw dataframe.
+    
+    args:
+        int num_jobs: number of desirable jobs passed to the scraper
+    
+    return:
+        Dataframe df: cleaned dataframe
+    """
     
     # df = gs.get_jobs(num_jobs=num_jobs)
     
