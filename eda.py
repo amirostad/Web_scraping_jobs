@@ -47,7 +47,13 @@ def get_countplot(df):
         Dataframe df: dataframe of jobs
     """
     for col in df.select_dtypes(include=['object']).columns:
-        ax = sns.countplot(x=col, data=df, 
-                           order=df[col].value_counts().index)
-        ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
-        plt.show()
+        try: # for columns with more than 20 unique values, only plot top 20
+            ax = sns.countplot(x=col, data=df, palette='Spectral',
+                               order=df[col].value_counts().iloc[:20].index)
+            ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
+            plt.show()
+        except:
+            ax = sns.countplot(x=col, data=df, palette='Spectral',
+                               order=df[col].value_counts().index)
+            ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
+            plt.show()

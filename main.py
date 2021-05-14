@@ -43,5 +43,5 @@ feat_importances = pd.Series(loaded_model.feature_importances_,
 feat_importances.nlargest(20).plot(kind='barh', color='teal')
 print(feat_importances.sort_values())
 print("Model's mean absolute error (MAE) = ", mean_absolute_error(y_test, y_pred))
-print("Model's mean squared error (MSE) = ", mean_squared_error(y_test, y_pred))
+print("Model's roor mean squared error (RMSE) = ", pow(mean_squared_error(y_test, y_pred), 0.5))
 print("Model's R2 score = ", r2_score(y_test, y_pred))

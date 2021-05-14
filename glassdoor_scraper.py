@@ -14,17 +14,17 @@ code. I redid several parts of the code and fixed the xpaths.
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.common.by import By
+# from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 import time
 import pandas as pd
 import snoop
 
 @snoop # snoop shows the line of a function being executed
 def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False, 
-             DRIVER_PATH = 'chromedriver', slp_time=3):
+             DRIVER_PATH = 'chromedriver', slp_time=10):
     
     '''Gathers jobs as a dataframe, scraped from Glassdoor
     
@@ -36,14 +36,14 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False,
         int slp_time: waiting time in seconds
         
     return:
-        a raw dataframe of scraped jobs
+        scraped dataframe of jobs
     '''
     
     options = Options()
-    options.headless = False # With (FALSE) or without (TRUE) user interface
+    options.headless = True # With (FALSE) or without (TRUE) user interface
     options.add_argument("--window-size=1200,675")
     
-    PATIENCE_TIME = 60
+    # PATIENCE_TIME = 60
     
     driver = webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
     
@@ -68,12 +68,12 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False,
                 break
 
             job_button.click()  # You might 
-            time.sleep(3)
+            time.sleep(slp_time)
             
             try:
                 driver.find_element_by_css_selector('[alt="Close"]').click() #clicking to the X.
                 print(' x out worked')
-            except NoSuchElementException:
+            except:
                 print(' x out failed')
                 pass
         
@@ -87,15 +87,16 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False,
                     collected_successfully = True
                 except:
                     time.sleep(5)
+                    break
 
             try:
                 salary_estimate = driver.find_element_by_xpath('//*[@id="JDCol"]/div/article/div/div[1]/div/div/div[1]/div[3]/div[1]/div[4]').text
-            except NoSuchElementException:
+            except:
                 salary_estimate = -1 # You need to set a "not found value. It's important."
             
             try:
                 rating = driver.find_element_by_xpath('//*[@id="JDCol"]/div/article/div/div[1]/div/div/div[1]/div[3]/div[1]/div[1]/span').text
-            except NoSuchElementException:
+            except:
                 rating = -1 #You need to set a "not found value. It's important."
 
             #Printing for debugging
@@ -108,41 +109,42 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False,
 
             #Going to the Company tab...
             #clicking on this:
-            #<div class="tab" data-tab-type="overview"><span>Company</span></div>
             try:
-                driver.find_element_by_xpath('//*[@id="SerpFixedHeader"]/div/div/div[3]/span').click()
+                b = driver.find_element_by_xpath('//*[@id="SerpFixedHeader"]/div/div/div[3]/span')
+                time.sleep(slp_time)
+                b.click()
 
                 try:
                     size = driver.find_element_by_xpath('//*[@id="EmpBasicInfo"]/div[1]/div/div[1]/span[2]').text
-                except NoSuchElementException:
+                except:
                     size = -1
 
                 try:
                     founded = driver.find_element_by_xpath('//*[@id="EmpBasicInfo"]/div[1]/div/div[2]/span[2]').text
-                except NoSuchElementException:
+                except:
                     founded = -1
 
                 try:
                     type_of_ownership = driver.find_element_by_xpath('//*[@id="EmpBasicInfo"]/div[1]/div/div[3]/span[2]').text
-                except NoSuchElementException:
+                except:
                     type_of_ownership = -1
 
                 try:
                     industry = driver.find_element_by_xpath('//*[@id="EmpBasicInfo"]/div[1]/div/div[4]/span[2]').text
-                except NoSuchElementException:
+                except:
                     industry = -1
 
                 try:
                     sector = driver.find_element_by_xpath('//*[@id="EmpBasicInfo"]/div[1]/div/div[5]/span[2]').text
-                except NoSuchElementException:
+                except :
                     sector = -1
 
                 try:
                     revenue = driver.find_element_by_xpath('//*[@id="EmpBasicInfo"]/div[1]/div/div[6]/span[2]').text
-                except NoSuchElementException:
+                except:
                     revenue = -1
 
-            except NoSuchElementException:  #Rarely, some job postings do not have the "Company" tab.
+            except:  #Rarely, some job postings do not have the "Company" tab.
                 size = -1
                 founded = -1
                 type_of_ownership = -1
@@ -174,9 +176,12 @@ def get_jobs(job_to_lookfor='Data%20Scientist', num_jobs=10, verbose=False,
             
         #Clicking on the "next page" button
         try:
-            driver.find_element_by_xpath('.//li[@class="css-1yshuyv e1gri00l3"]//a').click()
-        except NoSuchElementException:
+            b = driver.find_element_by_xpath('.//li[@class="css-1yshuyv e1gri00l3"]//a')
+            time.sleep(slp_time)
+            b.click()
+        except:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
             break
-
-    return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
+    df = pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame
+    df.to_csv('./data/df.csv', index=False)    
+    return df

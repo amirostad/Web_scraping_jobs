@@ -36,6 +36,7 @@ def get_model(X):
     print("cross validation scores:\n", cv)
     print("the average of the cross validation scores: ", cv.mean())
     
+    
     # param_grid =  {'n_estimators': [10, 25, 50, 100, 200, 400, 800, 1000],
     #                                   'bootstrap': [True],
     #                                   'max_depth': [2, 5, 10, 15, 20],
@@ -43,6 +44,8 @@ def get_model(X):
     #                                   'min_samples_leaf': [2,3,4,5,6],
     #                                   'min_samples_split': [2,3,4]}
     
+    
+    # For a quick check
     param_grid =  {'n_estimators': [50],
                                       'bootstrap': [True],
                                       'max_depth': [2],
