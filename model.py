@@ -37,21 +37,21 @@ def get_model(X):
     print("the average of the cross validation scores: ", cv.mean())
     
     
-    # param_grid =  {'n_estimators': [10, 25, 50, 100, 200, 400, 800, 1000],
-    #                                   'bootstrap': [True],
-    #                                   'max_depth': [2, 5, 10, 15, 20],
-    #                                   'max_features': ['auto','sqrt',10],
-    #                                   'min_samples_leaf': [2,3,4,5,6],
-    #                                   'min_samples_split': [2,3,4]}
+    param_grid =  {'n_estimators': [10, 25, 50, 100, 200, 400, 800, 1000],
+                                      'bootstrap': [True],
+                                      'max_depth': [2, 5, 10, 15, 20],
+                                      'max_features': ['auto','sqrt',10],
+                                      'min_samples_leaf': [2,3,4,5,6],
+                                      'min_samples_split': [2,3,4]}
     
     
     # For a quick check
-    param_grid =  {'n_estimators': [50],
-                                      'bootstrap': [True],
-                                      'max_depth': [2],
-                                      'max_features': ['auto','sqrt',10],
-                                      'min_samples_leaf': [2,3],
-                                      'min_samples_split': [2,3]}
+    # param_grid =  {'n_estimators': [50],
+    #                                   'bootstrap': [True],
+    #                                   'max_depth': [2],
+    #                                   'max_features': ['auto','sqrt',10],
+    #                                   'min_samples_leaf': [2,3],
+    #                                   'min_samples_split': [2,3]}
     
     cv = GridSearchCV(rf, param_grid = param_grid, cv = 5, verbose = False,
                       n_jobs = -1)
@@ -70,7 +70,7 @@ def get_model(X):
     y_test.to_csv('./data/y_test.csv', index=False)
     
     # save model using joblib
-    FILENAME = "saved_model.sav"
+    FILENAME = "rfr_saved_model.sav" # save random forest regressor 
     joblib.dump(rf, FILENAME)
     
     return rf

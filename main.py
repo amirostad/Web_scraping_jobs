@@ -24,24 +24,24 @@ eda.get_countplot(df)
 #%% Modeling
 try:
     # load the model form disk
-    loaded_model = joblib.load("saved_model.sav")
+    rfr_loaded_model = joblib.load("rfr_saved_model.sav")
     
 except:
-    loaded_model = model.get_model(df)
+    rfr_loaded_model = model.get_model(df)
     
-print("The optimized model: \n", loaded_model)
-print("The number of features used to fit the model: {}". format(loaded_model.n_features_))    
+print("The optimized Random Forest Regressor model: \n", rfr_loaded_model)
+print("The number of features used to fit the Random Forest Regressor model: {}". format(rfr_loaded_model.n_features_))    
 
 #%% Model's accuracy
 X_test = pd.read_csv('./data/X_test.csv')
 y_test = pd.read_csv('./data/y_test.csv')
-y_pred = loaded_model.predict(X_test)    
+y_pred = rfr_loaded_model.predict(X_test)    
 
 # Which features are more important
-feat_importances = pd.Series(loaded_model.feature_importances_,
+feat_importances = pd.Series(rfr_loaded_model.feature_importances_,
                                  index=X_test.columns)
 feat_importances.nlargest(20).plot(kind='barh', color='teal')
 print(feat_importances.sort_values())
-print("Model's mean absolute error (MAE) = ", mean_absolute_error(y_test, y_pred))
-print("Model's roor mean squared error (RMSE) = ", pow(mean_squared_error(y_test, y_pred), 0.5))
-print("Model's R2 score = ", r2_score(y_test, y_pred))
+print("Random forest regressor's mean absolute error (MAE) = ", mean_absolute_error(y_test, y_pred))
+print("Random forest regressor's roor mean squared error (RMSE) = ", pow(mean_squared_error(y_test, y_pred), 0.5))
+print("Random forest regressor's R2 score = ", r2_score(y_test, y_pred))
