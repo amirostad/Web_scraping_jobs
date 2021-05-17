@@ -81,6 +81,10 @@ Later, by using GridSearchCV, the parameters for the model were optimized and th
 - RMSE = 2.26
 - R<sup>2</sup>score = 0.99
 
+## Feature importance
+The most importance features turned out to be as shown in the following image.
+![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/10_feature_importance.png "feature importance")
+
 ## COMING SOON:
 <span style="color:red">More models and production section (flask endpoint) will be added soon!</span>
 
