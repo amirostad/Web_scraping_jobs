@@ -57,6 +57,7 @@ In this project, data scientist job openings will be web scraped and compared in
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/3_jobtitles.png "job titles")
 
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/4_jobseniority.png "job seniority")
+
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/5_industry.png "industry")
 
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/6_sector.png "sector")
