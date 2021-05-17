@@ -64,7 +64,7 @@ def get_clean_dataframe(num_jobs=100):
     
     df['State'] = df['Location'].apply(lambda x: x.split()[-1])
     df = df[df.State != 'Kingdom'] # remove United Kingdom
-    
+    df = df[df.State != 'States'] # remove United States
     #%% Company age
     
     # Replace non-numeric cells in Founded column with -1

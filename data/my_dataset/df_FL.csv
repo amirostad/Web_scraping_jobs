@@ -1,0 +1,559 @@
+Job Title,Salary Estimate,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue
+Lead Data Scientist,$80K - $142K (Glassdoor est.),4.0,"Verizon
+4.0","Tampa, FL",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+Data Scientist,-1,4.0,"CyberCoders
+4.0","Pompano Beach, FL",201 to 500 Employees,1999,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+Scientific Programming and Machine Learning Engineer,$66K - $119K (Glassdoor est.),3.9,"Leidos
+3.9","Eglin AFB, FL",10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Analyst,$44K - $79K (Glassdoor est.),4.1,"MMM Holdings
+4.1","Orlando, FL",1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,-1
+Treasury Data Analyst,$46K - $80K (Glassdoor est.),3.1,"BankUnited
+3.1","Miami Lakes, FL",1001 to 5000 Employees,2009,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+Data Scientist,$73K - $120K (Glassdoor est.),-1,Webstore Group,"Fort Lauderdale, FL",-1,-1,-1,-1,-1,-1
+Business Intelligence Analyst- Florida Applicant Only,$46K - $92K (Glassdoor est.),3.4,"TouchSuite
+3.4","Boca Raton, FL",51 to 200 Employees,2004,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable
+Data Science Engineer,-1,3.6,"The CSI Companies
+3.6","Jacksonville, FL",51 to 200 Employees,1994,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+Data Engineer,-1,-1,Moorecroft Systems,"Miramar Beach, FL",-1,-1,-1,-1,-1,-1
+Analytics Manager,$57K - $110K (Glassdoor est.),4.3,"Drive Social Media
+4.3","Miami, FL",51 to 200 Employees,2012,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD)
+Healthcare Quality & Data Analytics Manager,$42K - $80K (Glassdoor est.),-1,Brevard Physician Associates,"Melbourne, FL",-1,-1,-1,-1,-1,-1
+Senior Data Scientist - Machine Learning Engineer,$68K - $138K (Glassdoor est.),-1,FinTrust Search Group,"Miami, FL",-1,-1,-1,-1,-1,-1
+Data Solutions Engineer,-1,-1,Moorecroft Systems,"Miramar Beach, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$58K - $115K (Glassdoor est.),-1,"Cigent Technology, Inc.","Fort Myers, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$65K - $136K (Glassdoor est.),-1,TalentoHCM,"North Miami, FL",-1,-1,-1,-1,-1,-1
+Analytical Method Development and Validation Scientist,-1,-1,Confidential Manufacturing,"Daytona Beach, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$65K - $126K (Glassdoor est.),4.5,"Azimuth Corporation
+4.5","Tampa, FL",51 to 200 Employees,2001,Company - Private,Federal Agencies,Government,$5 to $10 million (USD)
+Data Scientist,$58K - $115K (Glassdoor est.),-1,eMindful,"Orlando, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$73K - $124K (Glassdoor est.),4.0,"Amgen
+4.0","Tampa, FL",10000+ Employees,1980,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+Data Scientist,$73K - $118K (Glassdoor est.),4.0,"Verizon
+4.0","Lake Mary, FL",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+Data Scientist,$59K - $113K (Glassdoor est.),4.1,"Certified Collectibles Group
+4.1","Sarasota, FL",201 to 500 Employees,1987,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+Data Scientist,$61K - $106K (Glassdoor est.),4.4,"Design Interactive
+4.4","Port Orange, FL",51 to 200 Employees,1998,Company - Private,Research & Development,Business Services,$5 to $10 million (USD)
+Associate Scientist-R&D,$47K - $116K (Glassdoor est.),-1,"Clinical Diagnostic Solutions, Inc.","Plantation, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,-1,4.6,"Creative Financial Staffing
+4.6","Fort Lauderdale, FL",201 to 500 Employees,1994,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+Data Scientist,$82K - $116K (Glassdoor est.),4.1,"777 Partners
+4.1","Miami, FL",201 to 500 Employees,2015,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+Data Science Architect,$73K - $125K (Glassdoor est.),2.6,"CSX
+2.6","Jacksonville, FL",10000+ Employees,1978,Company - Public,Transportation Management,Transportation & Logistics,$10+ billion (USD)
+Data Scientist,$73K - $128K (Glassdoor est.),3.6,"Seacoast Bank
+3.6","Orlando, FL",501 to 1000 Employees,1926,Company - Public,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+Data Scientist,$75K - $137K (Glassdoor est.),3.6,"Lee Health
+3.6","Fort Myers, FL",10000+ Employees,1916,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+Data Scientist,$53K - $91K (Glassdoor est.),4.0,"VMD Corp
+4.0","Tampa, FL",501 to 1000 Employees,2002,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Data Scientist,$64K - $119K (Glassdoor est.),3.5,"Novel Engineering
+3.5","Melbourne, FL",1 to 50 Employees,2009,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+Data Scientist,$58K - $118K (Glassdoor est.),3.6,"Vector Solutions
+3.6","Tampa, FL",501 to 1000 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+Data Scientist,$50K - $90K (Glassdoor est.),3.1,"Hertz
+3.1","Estero, FL",10000+ Employees,1918,Company - Public,Car Rental,Travel & Tourism,$5 to $10 billion (USD)
+Data Scientist,$50K - $70K (Glassdoor est.),4.1,"Elutions
+4.1","Tampa, FL",1 to 50 Employees,1994,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+Data Scientist,-1,-1,Sabal Tech,"Fort Lauderdale, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,$36K - $73K (Glassdoor est.),5.0,"Apptness Media Group
+5.0","Boca Raton, FL",1 to 50 Employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+AI Data Scientist - NLP - PwC Labs,$84K - $154K (Glassdoor est.),3.9,"PRICE WATERHOUSE COOPERS
+3.9","Tampa, FL",10000+ Employees,1998,Company - Private,Accounting,Accounting & Legal,$5 to $10 billion (USD)
+Data Scientist,$61K - $119K (Glassdoor est.),3.7,"Sabel Systems
+3.7","Valparaiso, FL",1 to 50 Employees,Contract,IT Services,Information Technology,$1 to $5 million (USD),-1
+"Educator, Data Scientist",-1,3.7,"BrainStation
+3.7","Miami, FL",201 to 500 Employees,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable
+Data Scientist,-1,-1,Stratford Animal Health,"Odessa, FL",-1,-1,-1,-1,-1,-1
+Provider Data Analyst,$55K - $71K (Glassdoor est.),-1,Health Network One,"Fort Lauderdale, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$66K - $121K (Glassdoor est.),5.0,"Longeviti, LLC
+5.0","Tampa, FL",51 to 200 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Data Scientist,$73K - $133K (Glassdoor est.),4.2,"IQuasar
+4.2","Tampa, FL",1 to 50 Employees,2004,Company - Private,IT Services,Information Technology,$1 to $5 million (USD)
+Data Scientist,$60K - $107K (Glassdoor est.),3.5,"Ascension
+3.5","Jacksonville, FL",10000+ Employees,1999,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+Data Scientist,-1,4.5,"PROTECH
+4.5","Boca Raton, FL",1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,Less than $1 million (USD),-1
+Data Scientist,$64K - $129K (Glassdoor est.),-1,Thermo Fisher Scientific,"Jacksonville, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$64K - $113K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Orlando, FL",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Data Scientist,$63K - $111K (Glassdoor est.),3.8,"FIS Global
+3.8","Jacksonville, FL",10000+ Employees,1968,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+Data Scientist,-1,-1,http://www.ubertal.com,"Orlando, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$65K - $124K (Glassdoor est.),-1,The Powerline Group,"Boca Raton, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,-1,-1,"Certegy Payment Solutions, LLC","Clearwater, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,$69K - $129K (Glassdoor est.),3.8,"NextEra Energy
+3.8","Juno Beach, FL",10000+ Employees,Company - Public,Utilities,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1
+"Data Scientist, Supply Chain",$56K - $117K (Glassdoor est.),4.3,"Coupa
+4.3","Miami, FL",1001 to 5000 Employees,2006,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+PwC Labs - AI Data Scientist (NLP),$68K - $113K (Glassdoor est.),3.9,"PwC
+3.9","Tampa, FL",10000+ Employees,1998,Company - Private,Accounting,Accounting & Legal,$5 to $10 billion (USD)
+Senior Water Resources Specialist Engineer/Scientist,$58K - $131K (Glassdoor est.),-1,HSW Consulting,"Tampa, FL",-1,-1,-1,-1,-1,-1
+Data Scientist,-1,2.8,"Guardian Eagle
+2.8","Boca Raton, FL",201 to 500 Employees,Company - Private,$5 to $10 million (USD),-1,-1,-1
+Product Management Data Scientist,$76K - $126K (Glassdoor est.),4.1,"DHL eCommerce
+4.1","Weston, FL",10000+ Employees,1969,Company - Private,Logistics & Supply Chain,Transportation & Logistics,$10+ billion (USD)
+Data Scientist - Risk,$77K - $109K (Glassdoor est.),4.3,"LSQ
+4.3","Orlando, FL",51 to 200 Employees,1996,Company - Private,Lending,Finance,Unknown / Non-Applicable
+Data Scientist/Technical Lead,$128K - $207K (Glassdoor est.),4.6,"Novetta
+4.6","Tampa, FL",501 to 1000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+Data Scientist - ProServe,-1,3.8,"Amazon Web Services, Inc.
+3.8",Florida,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+"Data Scientist, Mid",$63K - $114K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Tampa, FL",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+IT Data Analyst Local Candidates Only,$44K - $102K (Glassdoor est.),-1,Educational Federal Credit Union,"Miami, FL",-1,-1,-1,-1,-1,-1
+Sr. Data Analyst,-1,3.4,"SNI Technology
+3.4","Miami, FL",201 to 500 Employees,1998,Company - Public,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+Sr. Data Analyst,-1,3.4,"SNI Technology
+3.4","Miami, FL",-1,-1,-1,-1,-1,-1
+Sr. Data Analyst,-1,3.4,"SNI Technology
+3.4","Miami, FL",-1,-1,-1,-1,-1,-1
+Data Analyst - Order Processing,$40K - $69K (Glassdoor est.),-1,Infinity Apparel Group,"Miami, FL",-1,-1,-1,-1,-1,-1
+Data Analyst - Order Processing,$40K - $69K (Glassdoor est.),-1,Infinity Apparel Group,"Miami, FL",-1,-1,-1,-1,-1,-1
+Data Scientist I,$60K - $104K (Glassdoor est.),3.9,"Crowley
+3.9","Jacksonville, FL",-1,-1,-1,-1,-1,-1
+Data Scientist- Data Analytics,$52K - $98K (Glassdoor est.),3.1,"Hertz
+3.1","Estero, FL",10000+ Employees,1918,Company - Public,Car Rental,Travel & Tourism,$5 to $10 billion (USD)
+Strategic Data Analyst,-1,4.0,"System One
+4.0","Aloma, FL",5001 to 10000 Employees,1979,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD)
+"Business Data Scientist, Miami FL",$77K - $148K (Glassdoor est.),3.8,"Amerant Bank
+3.8","Miami, FL",501 to 1000 Employees,1987,Company - Public,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+Senior Data Scientist,$92K - $147K (Glassdoor est.),3.7,"Imprivata
+3.7","Clearwater, FL",201 to 500 Employees,2002,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+Supply Chain Data Scientist Consultant,$65K - $133K (Glassdoor est.),4.0,"Accenture
+4.0","Tampa, FL",10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD)
+Lead Data Scientist,$80K - $142K (Glassdoor est.),4.0,"Verizon
+4.0","Tampa, FL",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+Data Scientist II-Care Transformation (UTower),$74K - $123K (Glassdoor est.),3.7,"University of Miami Health System
+3.7","Miami, FL",Unknown,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1
+Data Scientist - Nationwide Opportunities,$82K - $142K (Glassdoor est.),3.8,"Amazon Web Services, Inc.
+3.8","Jacksonville, FL",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Data Scientist/ Market Analyst,$60K - $106K (Glassdoor est.),3.4,"THE ENERGY AUTHORITY
+3.4","Jacksonville, FL",51 to 200 Employees,1997,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",$25 to $50 million (USD)
+Senior Fulfillment and Customer Promise Data Scientist,$89K - $158K (Glassdoor est.),3.3,"Chewy
+3.3","Fort Lauderdale, FL",10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail,$2 to $5 billion (USD)
+Data Scientist - Researcher,$58K - $96K (Glassdoor est.),3.7,"Nielsen
+3.7","Oldsmar, FL",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD)
+Data Analyst,$46K - $94K (Glassdoor est.),4.2,"Agile Sourcing Partners
+4.2","Orlando, FL",201 to 500 Employees,2006,Company - Private,Utilities,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD)
+Data Scientist *MUST BE ABLE TO OBTAIN A SECRET CLEARANCE*,-1,4.4,"Tsymmetry, Inc.
+4.4","Melbourne, FL",51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD)
+RSA Fraud Data Scientist (FDS),-1,4.2,"RSA
+4.2",Florida,10000+ Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+Data Scientist II,$70K - $120K (Glassdoor est.),3.9,"Crowley
+3.9","Jacksonville, FL",5001 to 10000 Employees,1892,Company - Private,Shipping,Transportation & Logistics,$1 to $2 billion (USD)
+Senior Data Scientist,$72K - $120K (Glassdoor est.),3.8,"CAE Inc.
+3.8","Orlando, FL",10000+ Employees,1947,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+DATA SCIENTIST,-1,-1,CIITS,"Boca Raton, FL",-1,-1,-1,-1,-1,-1
+Sr. SEO Data & Optimization Specialist (Boca),$39K - $86K (Glassdoor est.),3.2,"ADT Security Services
+3.2","Boca Raton, FL",10000+ Employees,1874,Company - Public,Security Services,Business Services,$2 to $5 billion (USD)
+Data Scientist Intern,-1,4.1,"Elutions
+4.1","Tampa, FL",1 to 50 Employees,1994,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+Marketing Data Analyst,-1,-1,CrossLink,"Orlando, FL",1 to 50 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Staff Data Scientist,$90K - $145K (Glassdoor est.),3.3,"Chewy
+3.3","Hollywood, FL",10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail,$2 to $5 billion (USD)
+Data Scientist - National TV Analytics Team,$68K - $108K (Glassdoor est.),3.7,"Nielsen
+3.7","Oldsmar, FL",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD)
+"Data Scientist, Customer Intelligence - Opportunity for Working Remotely Jacksonville, FL",$91K - $152K (Glassdoor est.),4.3,"VMware
+4.3","Jacksonville, FL",10000+ Employees,1998,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+Data Scientist - Journeyman,$58K - $100K (Glassdoor est.),4.8,"Lukos
+4.8","Tampa, FL",51 to 200 Employees,Company - Private,Accounting,Accounting & Legal,$1 to $5 million (USD),-1
+Predictive Modeling - Data Scientist,$46K - $101K (Glassdoor est.),3.9,"FCCI Insurance
+3.9","Sarasota, FL",501 to 1000 Employees,1959,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD)
+Business Data Scientist,$67K - $138K (Glassdoor est.),3.8,"Amerant Bank
+3.8","Miami, FL",501 to 1000 Employees,1987,Company - Public,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+Machine Learning and Data Engineer - South Florida,$72K - $141K (Glassdoor est.),4.2,"Slalom Consulting
+4.2","Miami, FL",5001 to 10000 Employees,2001,Company - Private,Consulting,Business Services,$2 to $5 billion (USD)
+INTERN - Data Scientist - MIAMI,-1,3.6,"Beckman Coulter Diagnostics
+3.6","Miami, FL",10000+ Employees,1935,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD)
+Healthcare Data Analyst,$43K - $88K (Glassdoor est.),3.4,"Cancer Treatment Centers of America
+3.4","Boca Raton, FL",5001 to 10000 Employees,1988,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+Senior Data Scientist,-1,3.5,"Prevedere
+3.5",Florida,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+"Associate Educator, Data Scientist",$69K - $93K (Glassdoor est.),3.7,"BrainStation
+3.7","Miami, FL",201 to 500 Employees,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable
+Senior Data Scientist,-1,4.3,"Mode
+4.3",Florida,1 to 50 Employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1
+Senior Data Scientist -TS/SCI,$85K - $152K (Glassdoor est.),3.4,"Starry Associates
+3.4","Tampa, FL",1 to 50 Employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$10 to $25 million (USD),-1
+Data Scientist - Junior,$94K - $105K (Glassdoor est.),4.8,"Lukos
+4.8","Tampa, FL",51 to 200 Employees,Company - Private,Accounting,Accounting & Legal,$1 to $5 million (USD),-1
+Senior Data Scientist,-1,3.5,"Hear.com US
+3.5",Florida,201 to 500 Employees,2012,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+Artificial Intelligence Machine Learning Engineer,$61K - $121K (Glassdoor est.),4.1,"LOCKHEED MARTIN CORPORATION
+4.1","Orlando, FL",10000+ Employees,1995,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Science Client Partner,$63K - $101K (Glassdoor est.),3.7,"Nielsen
+3.7","Oldsmar, FL",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD)
+Senior Data Scientist,$102K - $118K (Glassdoor est.),3.3,"Auto Club Group
+3.3","Tampa, FL",10000+ Employees,1902,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD)
+Data Scientist Junior,-1,5.0,"Longeviti, LLC
+5.0","Tampa, FL",51 to 200 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Data Scientist – Fleet Analytics,$62K - $108K (Glassdoor est.),3.1,"Hertz
+3.1","Estero, FL",10000+ Employees,1918,Company - Public,Car Rental,Travel & Tourism,$5 to $10 billion (USD)
+Mgr I - Data Science,-1,3.3,"PODS Enterprises LLC
+3.3","Clearwater, FL",1001 to 5000 Employees,1998,Company - Private,Consumer Product Rental,Consumer Services,$500 million to $1 billion (USD)
+"Machine Learning Engineer, R&D",$64K - $117K (Glassdoor est.),3.8,"CAE Inc.
+3.8","Tampa, FL",10000+ Employees,1947,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+Data Analyst,$50K - $90K (Glassdoor est.),4.2,"Globant
+4.2","Miami, FL",10000+ Employees,2003,Company - Public,IT Services,Information Technology,$100 to $500 million (USD)
+"AI/Data Scientist, R&D",$66K - $118K (Glassdoor est.),3.8,"CAE Inc.
+3.8","Tampa, FL",10000+ Employees,1947,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+Machine Learning Engineer,$60K - $107K (Glassdoor est.),3.7,"Restaurant Brands International
+3.7","Miami, FL",1001 to 5000 Employees,2014,Company - Public,Fast-Food & Quick-Service Restaurants,"Restaurants, Bars & Food Services",$5 to $10 billion (USD)
+"Data Scientist, Senior",$78K - $137K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Tampa, FL",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Data Analyst,-1,3.4,"APR Consulting Inc
+3.4","Temple Terrace, FL",501 to 1000 Employees,1980,Unknown,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+Data Scientist Fleet Operations,$79K - $85K (Glassdoor est.),3.1,"Hertz
+3.1","Estero, FL",10000+ Employees,1918,Company - Public,Car Rental,Travel & Tourism,$5 to $10 billion (USD)
+Senior Fulfillment and Customer Promise Data Scientist ,$89K - $158K (Glassdoor est.),3.3,"Chewy
+3.3","Fort Lauderdale, FL",10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail,$2 to $5 billion (USD)
+Data Engineer,-1,4.2,"4 Corner Resources
+4.2","Orlando, FL",201 to 500 Employees,2005,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+Data Analyst,$49K - $101K (Glassdoor est.),4.0,"JPMorgan Chase Bank, N.A.
+4.0","Tampa, FL",10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+Senior Scientist,$71K - $142K (Glassdoor est.),5.0,"Quantum Improvements Consulting
+5.0","Orlando, FL",1 to 50 Employees,2014,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+IT Business Data Analyst,$47K - $105K (Glassdoor est.),4.0,"Blythe Construction Inc
+4.0","Winter Park, FL",201 to 500 Employees,Unknown,$100 to $500 million (USD),-1,-1,-1
+Part-Time Data Analyst - Power BI,-1,3.5,"Kelly
+3.5","Miami, FL",5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+Senior Data Architect - Jacksonville Beach Florida,$85K - $156K (Glassdoor est.),3.5,"PenFed Credit Union
+3.5","Jacksonville, FL",1001 to 5000 Employees,1935,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+Research Scientist,$55K - $118K (Glassdoor est.),-1,Loss Prevention Research Council,"Gainesville, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,$46K - $59K (Glassdoor est.),4.7,"AirFind
+4.7","Miami, FL",1 to 50 Employees,Company - Private,Less than $1 million (USD),-1,-1,-1
+Senior Data Scientist,$84K - $134K (Glassdoor est.),4.0,"Verizon
+4.0","Temple Terrace, FL",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+Data Engineer/Scientist,$57K - $97K (Glassdoor est.),4.3,"VES LLC
+4.3","Tampa, FL",1 to 50 Employees,2014,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+Data Science Intern,-1,4.3,"PlanSource
+4.3","Orlando, FL",501 to 1000 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+Machine Learning Engineer,$65K - $141K (Glassdoor est.),3.0,"Telesis
+3.0","Tampa, FL",201 to 500 Employees,1998,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+Business Data Analyst,$45K - $98K (Glassdoor est.),-1,RYVAN Recruiting,"West Palm Beach, FL",-1,-1,-1,-1,-1,-1
+Data Science Intern,-1,3.7,"Fashom
+3.7","Miami, FL",1 to 50 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+"Data Scientist, part-time",$39K - $71K (Glassdoor est.),3.5,"Ascension
+3.5","Jacksonville, FL",10000+ Employees,1999,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+"Sr Analyst, Data Scientist Business Intelligence (1 of 2 Openings)",$78K - $127K (Glassdoor est.),4.2,"Johnson & Johnson Family of Companies
+4.2","Jacksonville, FL",10000+ Employees,1887,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+Quantitative Analyst,$62K - $119K (Glassdoor est.),3.8,"NextEra Energy
+3.8","Juno Beach, FL",10000+ Employees,Company - Public,Utilities,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1
+Sr. Data Scientist - TS/SCI,$86K - $141K (Glassdoor est.),4.4,"Coverent
+4.4","Tampa, FL",51 to 200 Employees,2008,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+Senior Data Scientist,$73K - $149K (Glassdoor est.),5.0,"XO
+5.0","Fort Lauderdale, FL",Unknown,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Data Analyst,-1,4.0,"Insight Global
+4.0","Miami, FL",1001 to 5000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+Senior Operations Research Data Scientist,$86K - $141K (Glassdoor est.),4.4,"Coverent
+4.4","Tampa, FL",51 to 200 Employees,2008,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+Senior GIS Data Scientist,$86K - $141K (Glassdoor est.),4.4,"Coverent
+4.4","Tampa, FL",51 to 200 Employees,2008,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+SENIOR DATA SCIENTIST,$69K - $133K (Glassdoor est.),3.7,"Foot Locker
+3.7","Saint Petersburg, FL",10000+ Employees,1974,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$5 to $10 billion (USD)
+Data Analyst - Provider Network,$50K - $108K (Glassdoor est.),4.0,"Avalon Healthcare Solutions
+4.0","Tampa, FL",51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+Senior Data Scientist - Researcher,$59K - $99K (Glassdoor est.),3.7,"Nielsen
+3.7","Oldsmar, FL",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD)
+Data Analyst,$46K - $99K (Glassdoor est.),3.4,"North Highland
+3.4","Tampa, FL",1001 to 5000 Employees,1992,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+"Data Scientist, Intelligent Solutions",$64K - $120K (Glassdoor est.),3.7,"Mitsubishi Power Americas, Inc.
+3.7","Orlando, FL",Unknown,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Data Science/Machine Learning Engineer / Orlando,$61K - $114K (Glassdoor est.),4.1,"LOCKHEED MARTIN CORPORATION
+4.1","Orlando, FL",10000+ Employees,1995,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Principal Data Scientist - ProServe,-1,3.8,"Amazon Web Services, Inc.
+3.8",Florida,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Data Analyst,$50K - $81K (Glassdoor est.),3.9,"360insights
+3.9","Miami, FL",501 to 1000 Employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+IRS Pathways Recent Graduate Program (Social Scientist),$48K - $99K (Glassdoor est.),3.7,"Internal Revenue Service
+3.7","Plantation, FL",10000+ Employees,1862,Government,Federal Agencies,Government,Unknown / Non-Applicable
+Marketing Data Analyst,$40K - $76K (Glassdoor est.),4.6,"Brown Parker & DeMarinis Advertising
+4.6","Boca Raton, FL",1 to 50 Employees,2002,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+Curriculum Engineer for Data Science & Analytics,-1,4.1,"HackerU
+4.1",Florida,51 to 200 Employees,2017,Company - Private,Education Training Services,Education,Unknown / Non-Applicable
+Data Scientist Mid/Senior,$74K - $132K (Glassdoor est.),5.0,"Longeviti, LLC
+5.0","Tampa, FL",51 to 200 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Lead Data Scientist,-1,3.6,"Circle
+3.6",Florida,51 to 200 Employees,2013,Company - Private,Financial Transaction Processing,Finance,Unknown / Non-Applicable
+Data Science/Machine Learning Instructor,-1,-1,Strata.ai,"Miami, FL",-1,-1,-1,-1,-1,-1
+Data Engineer,$61K - $119K (Glassdoor est.),4.0,"Raymond James Financial
+4.0","Saint Petersburg, FL",10000+ Employees,1962,Company - Public,Brokerage Services,Finance,$5 to $10 billion (USD)
+Data Science Intern (June 2021- May 2022),-1,4.1,"Bristol Myers Squibb
+4.1","Tampa, FL",-1,-1,-1,-1,-1,-1
+Business Data Analyst,$78K - $97K (Glassdoor est.),4.3,"MATRIX Resources
+4.3","Miami, FL",201 to 500 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+Data Analyst,$44K - $86K (Glassdoor est.),4.3,"Cornershop by Uber
+4.3","Miami, FL",1001 to 5000 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+Data Analyst / Driver Messenger Supporting the USMS,$46K - $48K (Glassdoor est.),3.5,"FSA Federal
+3.5","Miami, FL",1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+Data Analyst,$51K - $59K (Glassdoor est.),3.0,"Naglreiter MDDO
+3.0","Miramar, FL",51 to 200 Employees,Company - Public,Unknown / Non-Applicable,-1,-1,-1
+"Data Steward, Modeler, Analyst, Scientist, etc.",$37K - $75K (Glassdoor est.),4.3,"MATRIX Resources
+4.3","Tampa, FL",201 to 500 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+Data Analyst,-1,3.7,"Robert Half
+3.7","Bradenton, FL",10000+ Employees,1948,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+Solar Data Analyst,$31K - $44K (Glassdoor est.),4.4,"Momentum Solar
+4.4","Tampa, FL",501 to 1000 Employees,2009,Company - Private,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+Data Engineer,$49K - $98K (Glassdoor est.),3.7,"IZEA
+3.7","Orlando, FL",51 to 200 Employees,2006,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+"VP, Data Scientist for DCW-FLL/TPA-C13 (R2176197)",$98K - $192K (Glassdoor est.),3.9,"Citi
+3.9","Fort Lauderdale, FL",10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+AI/Machine Learning Engineer,-1,4.1,"LOCKHEED MARTIN CORPORATION
+4.1","Orlando, FL",10000+ Employees,1995,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Sr. Data Scientist,$74K - $125K (Glassdoor est.),4.0,"VMD Corp
+4.0","Tampa, FL",501 to 1000 Employees,2002,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Senior Data Scientist - ProServe,$84K - $151K (Glassdoor est.),3.8,"Amazon Web Services, Inc.
+3.8","Lakeland, FL",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Instructor of Data Science/Data Analytics,$55K - $98K (Glassdoor est.),4.1,"Florida Atlantic University
+4.1","Jupiter, FL",1001 to 5000 Employees,1960,College / University,Colleges & Universities,Education,$100 to $500 million (USD)
+Distinguished Data Scientist,$72K - $129K (Glassdoor est.),4.0,"Verizon
+4.0","Temple Terrace, FL",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+Data Analyst,-1,-1,"Healthy Start MomCare Network, Inc.","Tallahassee, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,-1,4.5,"Advanced Bio-Logic Solutions Corp
+4.5","Tampa, FL",1 to 50 Employees,Company - Private,Less than $1 million (USD),-1,-1,-1
+Senior Data Scientist - Nationwide Opportunities,-1,3.8,"Amazon Web Services, Inc.
+3.8",Florida,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Data Engineer,$56K - $111K (Glassdoor est.),4.2,"ReliaQuest, LLC.
+4.2","Tampa, FL",501 to 1000 Employees,2007,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+Data Analyst,$44K - $92K (Glassdoor est.),3.8,"JPMorgan Chase Bank, N.A.
+3.8","Tampa, FL",10000+ Employees,1799,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$10+ billion (USD)
+Data Science Client Partner - Remote,$63K - $101K (Glassdoor est.),3.7,"Nielsen
+3.7","Oldsmar, FL",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD)
+"Data Analyst, Technology",$45K - $84K (Glassdoor est.),4.0,"Raymond James Financial
+4.0","Saint Petersburg, FL",10000+ Employees,1962,Company - Public,Brokerage Services,Finance,$5 to $10 billion (USD)
+Strategic Data Analyst,-1,2.2,"RSR Group
+2.2","Winter Park, FL",201 to 500 Employees,1977,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable
+Data Analyst (Logistics),$38K - $81K (Glassdoor est.),-1,Jeunesse,"Lake Mary, FL",-1,-1,-1,-1,-1,-1
+Operations Research Analyst/ Data Scientist (OR/SA) Journeyman,-1,3.8,"Prescient Edge Federal
+3.8","Tampa, FL",51 to 200 Employees,2008,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Analyst,$45K - $88K (Glassdoor est.),4.0,"RSM US LLP
+4.0","Orlando, FL",10000+ Employees,1964,Private Practice / Firm,Accounting,Accounting & Legal,$5 to $10 billion (USD)
+"Senior Associate, Federal Data Scientist",$75K - $141K (Glassdoor est.),3.9,"KPMG
+3.9","Tallahassee, FL",10000+ Employees,1987,Company - Private,Consulting,Business Services,$1 to $2 billion (USD)
+Sr Data Scientist - Inference and Analytics,-1,4.8,"Collage.com
+4.8",Florida,51 to 200 Employees,2011,Company - Private,Internet,Information Technology,$50 to $100 million (USD)
+"VP, Data Scientist for DCW-FLL/TPA-C13",-1,3.9,"Citibank
+3.9","Fort Lauderdale, FL",1001 to 5000 Employees,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+Sr. Data Scientist,$71K - $115K (Glassdoor est.),3.7,"Nielsen
+3.7","Oldsmar, FL",10000+ Employees,1923,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD)
+Senior Healthcare Data Analyst,-1,4.0,"Kforce
+4.0","Doral, FL",10000+ Employees,1966,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD)
+DATA ANALYST,-1,3.5,"Kelly
+3.5","Tampa, FL",5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+Principal Data Scientist,$84K - $146K (Glassdoor est.),4.0,"Verizon
+4.0","Temple Terrace, FL",10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+EDI Data Analyst,$41K - $80K (Glassdoor est.),4.0,"Avalon Healthcare Solutions
+4.0","Tampa, FL",51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+Data Analyst,$37K - $69K (Glassdoor est.),4.0,"AACSB International
+4.0","Tampa, FL",51 to 200 Employees,1916,Nonprofit Organization,Membership Organizations,Business Services,$10 to $25 million (USD)
+"Associate, Rotational Development– Data Science Track Corp Strategy",$56K - $108K (Glassdoor est.),3.9,"Crowley
+3.9","Jacksonville, FL",5001 to 10000 Employees,1892,Company - Private,Shipping,Transportation & Logistics,$1 to $2 billion (USD)
+"Sr. Data Scientist , Marketing",$50K - $122K (Glassdoor est.),3.2,"ADT Security Services
+3.2","Boca Raton, FL",10000+ Employees,1874,Company - Public,Security Services,Business Services,$2 to $5 billion (USD)
+Data Engineer II,$65K - $113K (Glassdoor est.),3.9,"AdventHealth
+3.9","Orlando, FL",1001 to 5000 Employees,1973,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+R&D Data Science Intern,-1,3.6,"Beckman Coulter Life Sciences
+3.6","Miami, FL",10000+ Employees,1935,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD)
+"VP, Data Scientist for DCW-FLL/TPA-C13",-1,3.9,"Citi
+3.9","Fort Lauderdale, FL",10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+Business Intelligence Analyst,$51K - $101K (Glassdoor est.),3.8,"Centennial Bank
+3.8","Lake Mary, FL",501 to 1000 Employees,1999,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+Data Science QA,$55K - $113K (Glassdoor est.),-1,CapB InfoteK,"Miami, FL",-1,-1,-1,-1,-1,-1
+"Data Scientist Lead Analyst, VP (Tampa, FL)",$160K - $236K (Glassdoor est.),3.9,"Citibank
+3.9","Tampa, FL",1001 to 5000 Employees,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+Lead Data Scientist,$68K - $112K (Glassdoor est.),3.3,"Auto Club Group
+3.3","Tampa, FL",10000+ Employees,1902,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD)
+Data Analyst Equities,$49K - $98K (Glassdoor est.),4.3,"MATRIX Resources
+4.3","Tampa, FL",201 to 500 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+Junior Data Analyst,$42K - $82K (Glassdoor est.),-1,AC A&F,"Clearwater, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,-1,4.3,"Beacon Hill Staffing Group
+4.3","Brooksville, FL",501 to 1000 Employees,2000,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD)
+Data Architect,$93K - $121K (Glassdoor est.),4.3,"LSQ
+4.3","Orlando, FL",51 to 200 Employees,1996,Company - Private,Lending,Finance,Unknown / Non-Applicable
+Data Analyst,$35K - $66K (Glassdoor est.),3.0,"Rocky Mountain College of Art + Design
+3.0","Orlando, FL",201 to 500 Employees,1963,College / University,Colleges & Universities,Education,$10 to $25 million (USD)
+Data Analyst,$36K - $75K (Glassdoor est.),4.0,"Southeastern University
+4.0","Lakeland, FL",201 to 500 Employees,College / University,Colleges & Universities,Education,$50 to $100 million (USD),-1
+Data Engineer,$55K - $110K (Glassdoor est.),-1,Bravado Health,"Tampa, FL",-1,-1,-1,-1,-1,-1
+Research Data Analyst,$48K - $74K (Glassdoor est.),4.2,"JACKSON HEALTH SYSTEM
+4.2","Miami, FL",10000+ Employees,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1
+Data Science Intern,-1,3.4,"THE ENERGY AUTHORITY
+3.4","Jacksonville, FL",51 to 200 Employees,1997,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",$25 to $50 million (USD)
+Lead Data Scientist,-1,3.8,"CAE Inc.
+3.8","Orlando, FL",10000+ Employees,1947,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+"Associate, Rotational Development– Data Science Track BI &A",$56K - $108K (Glassdoor est.),3.9,"Crowley
+3.9","Jacksonville, FL",5001 to 10000 Employees,1892,Company - Private,Shipping,Transportation & Logistics,$1 to $2 billion (USD)
+"Principal Data Scientist, ProServe",$91K - $176K (Glassdoor est.),3.8,"Amazon Web Services, Inc.
+3.8","Lakeland, FL",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+"Associate, Rotational Development– Data Science Track PMO",$56K - $108K (Glassdoor est.),3.9,"Crowley
+3.9","Jacksonville, FL",5001 to 10000 Employees,1892,Company - Private,Shipping,Transportation & Logistics,$1 to $2 billion (USD)
+Polymer Scientist,-1,-1,TSE Industries Inc,"Clearwater, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,$35K - $64K (Glassdoor est.),4.1,"Elutions
+4.1","Tampa, FL",1 to 50 Employees,1994,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+Senior Strategy & Data Analyst,$61K - $119K (Glassdoor est.),4.0,"Bungalow
+4.0","Miami, FL",51 to 200 Employees,2017,Company - Private,Real Estate,Real Estate,$100 to $500 million (USD)
+Data Analyst,$39K - $73K (Glassdoor est.),3.5,"Brown & Brown Insurance
+3.5","Daytona Beach, FL",5001 to 10000 Employees,1939,Company - Public,Insurance Agencies & Brokerages,Insurance,$1 to $2 billion (USD)
+Healthcare Data Analyst,$33K - $68K (Glassdoor est.),3.1,"Community Health Centers
+3.1","Winter Garden, FL",501 to 1000 Employees,1973,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+Data Analyst,$31K - $56K (Glassdoor est.),3.7,"Perez Art Museum Miami
+3.7","Miami, FL",51 to 200 Employees,Company - Public,Unknown / Non-Applicable,-1,-1,-1
+Data Analyst Intern,-1,-1,KSG Solutions,"Tampa, FL",-1,-1,-1,-1,-1,-1
+Global Risk Review Banking Book Data Analyst,$41K - $74K (Glassdoor est.),3.9,"Citi
+3.9","Tampa, FL",10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+Supply Chain Data Scientist Manager,$91K - $169K (Glassdoor est.),4.0,"Accenture
+4.0","Tampa, FL",10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD)
+Basel Data Analyst,$44K - $93K (Glassdoor est.),1.5,"Pinnacle Group
+1.5","Tampa, FL",51 to 200 Employees,1989,Company - Public,$25 to $50 million (USD),-1,-1
+Data Analyst,$50K - $66K (Glassdoor est.),4.5,"Baldwin Risk Partners
+4.5","Tampa, FL",501 to 1000 Employees,Company - Public,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1
+Special Operations Quantitative Analyst -- Lessons Learned,-1,4.8,"Lukos
+4.8","Tampa, FL",51 to 200 Employees,Company - Private,Accounting,Accounting & Legal,$1 to $5 million (USD),-1
+Provider Data Analyst,$35K - $67K (Glassdoor est.),2.9,"Health System One
+2.9","Fort Lauderdale, FL",51 to 200 Employees,1995,Company - Private,Accounting,Accounting & Legal,Unknown / Non-Applicable
+Data Analyst,$41K - $85K (Glassdoor est.),4.0,"Boca Raton Regional Hospital
+4.0","Boca Raton, FL",5001 to 10000 Employees,1960,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+Data Analyst (Remote),$45K - $102K (Glassdoor est.),4.2,"Splunk
+4.2","Miami, FL",5001 to 10000 Employees,2003,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD)
+Data Architect- SSIS experience (REMOTE) 192884,$65K - $130K (Glassdoor est.),-1,GDKN Corporation,"Jacksonville, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,$43K - $83K (Glassdoor est.),3.9,"Thompson Consulting Services
+3.9","Maitland, FL",51 to 200 Employees,Company - Private,$10 to $25 million (USD),-1,-1,-1
+Computer Scientist (Public Flyer Notice),$45K - $81K (Glassdoor est.),3.5,"U.S. Secret Service
+3.5","Miami, FL",5001 to 10000 Employees,1865,Government,Federal Agencies,Government,Unknown / Non-Applicable
+Data Analyst,$42K - $85K (Glassdoor est.),3.9,"REEF
+3.9","Miami, FL",501 to 1000 Employees,Company - Private,Parking Lots & Garages,Transportation & Logistics,$50 to $100 million (USD),-1
+Data Analyst,$40K - $76K (Glassdoor est.),3.9,"Baldwin Risk Partners
+3.9","Tampa, FL",501 to 1000 Employees,2006,Company - Private,Insurance Agencies & Brokerages,Insurance,$50 to $100 million (USD)
+Healthcare Data Analyst,$42K - $98K (Glassdoor est.),-1,Next Healthcare Solutions,"Trinity, FL",-1,-1,-1,-1,-1,-1
+Data & ML Engineer - Nationwide Opportunities,$87K - $152K (Glassdoor est.),3.8,"Amazon Web Services, Inc.
+3.8","Jacksonville, FL",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Data Analyst,$41K - $84K (Glassdoor est.),3.4,"CDR Maguire
+3.4","Tallahassee, FL",51 to 200 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+RSCH DATA ANALYST I BIOINFORMATICS,$48K - $89K (Glassdoor est.),4.0,"H. Lee Moffitt Cancer Center
+4.0","Tampa, FL",5001 to 10000 Employees,1986,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+"Lead Specialist, Federal Data Scientist",$77K - $148K (Glassdoor est.),3.9,"KPMG
+3.9","Tallahassee, FL",10000+ Employees,1987,Company - Private,Consulting,Business Services,$1 to $2 billion (USD)
+"Data Engineer, DevOps - Remote OK",$91K - $173K (Glassdoor est.),4.2,"Splunk
+4.2","Miami, FL",5001 to 10000 Employees,2003,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD)
+Paid Internship and Entry Level Data Analyst and Visualization (STEM),$36K - $69K (Glassdoor est.),4.0,"CCS Global Tech
+4.0","Orlando, FL",501 to 1000 Employees,1997,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Quantitative Analyst,$58K - $109K (Glassdoor est.),3.9,"Franklin Templeton Investments
+3.9","Fort Lauderdale, FL",5001 to 10000 Employees,1947,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD)
+Data Analyst,$44K - $100K (Glassdoor est.),3.6,"Integrass
+3.6","Lake Mary, FL",1 to 50 Employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Data Analyst,$44K - $96K (Glassdoor est.),3.7,"Prosegur
+3.7","Deerfield Beach, FL",10000+ Employees,1976,Company - Public,Security Services,Business Services,$2 to $5 billion (USD)
+Data Analyst,$37K - $86K (Glassdoor est.),3.7,"DynCorp International LLC.
+3.7","Pensacola, FL",10000+ Employees,1946,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Plant Transformation Discovery Scientist,-1,5.0,"Plastomics Inc.
+5.0",Florida,Unknown,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Marketing Data Analyst,$31K - $55K (Glassdoor est.),3.6,"Norwegian Cruise Line Holdings Ltd
+3.6","Miami, FL",10000+ Employees,1966,Company - Public,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD)
+Data Analyst,$43K - $88K (Glassdoor est.),3.3,"Morgan & Morgan
+3.3","Orlando, FL",1001 to 5000 Employees,1983,Private Practice / Firm,Legal,Accounting & Legal,$500 million to $1 billion (USD)
+"Data Scientist Lead Analyst, VP (Tampa, FL)",$129K - $208K (Glassdoor est.),3.9,"Citi
+3.9","Tampa, FL",10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+"Senior Educator, Data Science & Analytics",-1,4.1,"HackerU
+4.1",Florida,51 to 200 Employees,2017,Company - Private,Education Training Services,Education,Unknown / Non-Applicable
+Data Analyst,$51K - $77K (Glassdoor est.),3.2,"DZS INC
+3.2","Seminole, FL",501 to 1000 Employees,2016,Company - Public,Telecommunications Manufacturing,Telecommunications,Unknown / Non-Applicable
+Associate Data Engineer,$60K - $107K (Glassdoor est.),4.0,"Amgen
+4.0","Tampa, FL",10000+ Employees,1980,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+Data Analyst,$45K - $89K (Glassdoor est.),3.2,"Dart Container
+3.2","Fort Lauderdale, FL",5001 to 10000 Employees,1937,Company - Private,Industrial Manufacturing,Manufacturing,$2 to $5 billion (USD)
+Logistics Data Analyst,-1,5.0,"CertiTemp
+5.0","Winter Haven, FL",Unknown,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1
+Tableau / Data Engineer,-1,4.5,"TekPartners, A P2P Company
+4.5","Boca Raton, FL",501 to 1000 Employees,2002,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+Principal Data Scientist,$85K - $154K (Glassdoor est.),3.7,"Imprivata
+3.7","Clearwater, FL",201 to 500 Employees,2002,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+"Data Analyst, Corporate Responsibility",$56K - $93K (Glassdoor est.),4.2,"Regency Centers
+4.2","Jacksonville, FL",201 to 500 Employees,1993,Company - Public,Real Estate,Real Estate,$500 million to $1 billion (USD)
+Data Analyst,$50K - $66K (Glassdoor est.),-1,Ai.io Incorporated,"Tampa, FL",-1,-1,-1,-1,-1,-1
+Data Analyst - Medicare,$33K - $69K (Glassdoor est.),4.0,"Peraton
+4.0","Tallahassee, FL",5001 to 10000 Employees,2017,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD)
+Business Intelligence Analyst,$39K - $81K (Glassdoor est.),3.7,"Smokey Bones
+3.7","Miami, FL",1001 to 5000 Employees,1999,Company - Private,Casual Restaurants,"Restaurants, Bars & Food Services",$100 to $500 million (USD)
+Medical Lab Scientist License Pending,$46K - $79K (Glassdoor est.),3.9,"AdventHealth Fish Memorial
+3.9","Orange City, FL",1001 to 5000 Employees,1973,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+Data Analyst,$50K - $80K (Glassdoor est.),3.5,"Simpluris
+3.5","Orlando, FL",1 to 50 Employees,Company - Private,$5 to $10 million (USD),-1,-1,-1
+Lead Data Engineer (remote),$69K - $138K (Glassdoor est.),4.2,"ThoughtWorks
+4.2","Tampa, FL",5001 to 10000 Employees,1993,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+"Lead Data Scientist, Advanced Analytics (Senior Manager Level)",$107K - $202K (Glassdoor est.),4.1,"Bacardi
+4.1","Miami, FL",5001 to 10000 Employees,1862,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable
+Data Analyst,$36K - $70K (Glassdoor est.),4.3,"Campus Crusade for Christ
+4.3","Orlando, FL",5001 to 10000 Employees,1951,Nonprofit Organization,Religious Organizations,Non-Profit,$100 to $500 million (USD)
+Data Analyst,-1,-1,BrokerCalls,"Fort Lauderdale, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,$41K - $95K (Glassdoor est.),3.2,"REEF
+3.2","Miami, FL",Unknown,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+SQL Data Analyst,$52K - $101K (Glassdoor est.),4.2,"springbig
+4.2","Boca Raton, FL",1 to 50 Employees,2013,Company - Private,Advertising & Marketing,Business Services,Less than $1 million (USD)
+Workday Data Consultant,$47K - $98K (Glassdoor est.),4.0,"Accenture
+4.0","Tampa, FL",10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD)
+Computer Scientist AI ML -JR,-1,3.3,"Zel Technologies
+3.3","Cape Canaveral, FL",201 to 500 Employees,1988,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD)
+Data Analyst / Junior Developer,$26K - $46K (Glassdoor est.),3.6,"Operation Par Inc.
+3.6","Largo, FL",201 to 500 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$10 to $25 million (USD),-1
+Data Engineer,$51K - $108K (Glassdoor est.),4.3,"Campus Crusade for Christ
+4.3","Orlando, FL",5001 to 10000 Employees,1951,Nonprofit Organization,Religious Organizations,Non-Profit,$100 to $500 million (USD)
+Data Engineer,-1,3.9,"Leidos
+3.9","Orlando, FL",10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Analyst,-1,-1,Dasan Zhone Solutions (DZS),"Seminole, FL",-1,-1,-1,-1,-1,-1
+Data Analyst,-1,-1,Hivelocity Hosting,"Tampa, FL",-1,-1,-1,-1,-1,-1
+DCW-Data Science Lead for DCW-FLL/TPA-C14,$105K - $111K (Glassdoor est.),3.9,"Citi
+3.9","Fort Lauderdale, FL",10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+Senior Data Analyst (Remote),-1,4.6,"Automox
+4.6","Tampa, FL",51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+Associate- Data Engineer,$47K - $104K (Glassdoor est.),3.9,"KPMG
+3.9","Jacksonville, FL",10000+ Employees,1987,Company - Private,Consulting,Business Services,$1 to $2 billion (USD)
+Data Engineer,$71K - $130K (Glassdoor est.),4.0,"Amgen
+4.0","Tampa, FL",10000+ Employees,1980,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+Marketing Data Analyst,-1,5.0,"ONE12th
+5.0",Florida,1 to 50 Employees,2012,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+Marketing Data Analyst,$42K - $73K (Glassdoor est.),3.9,"City Furniture
+3.9","Tamarac, FL",1001 to 5000 Employees,1971,Company - Private,Home Furniture & Housewares Stores,Retail,$100 to $500 million (USD)
+Data Analyst - Medicare,$30K - $70K (Glassdoor est.),3.5,"Perspecta
+3.5","Home Shopping, FL",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Junior Data Analyst,-1,-1,Clymer Farner Barley,"Wildwood, FL",-1,-1,-1,-1,-1,-1
+"Data Analyst, Integrations",-1,5.0,"dv01
+5.0",Florida,1 to 50 Employees,2014,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+Marketing Data Analyst,$39K - $86K (Glassdoor est.),3.6,"Flexshopper Llc
+3.6","Boca Raton, FL",51 to 200 Employees,2013,Company - Public,Consumer Electronics & Appliances Stores,Retail,$50 to $100 million (USD)
+Business Intelligence Analyst,$55K - $111K (Glassdoor est.),4.1,"Gerdau
+4.1","Tampa, FL",10000+ Employees,1901,Company - Public,Metal & Mineral Manufacturing,Manufacturing,$10+ billion (USD)
+Environmental Scientist/GIS Specialist,-1,-1,"Environmental Consulting & Design, Inc","Gainesville, FL",-1,-1,-1,-1,-1,-1
+Data Science Engineer,-1,4.4,"Forcura
+4.4","Jacksonville, FL",51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+Data Analyst,$38K - $77K (Glassdoor est.),3.8,"Suncoast Hospice - Empath Health
+3.8","Clearwater, FL",1001 to 5000 Employees,1977,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+Healthcare Data Analyst,$37K - $77K (Glassdoor est.),3.7,"University of Miami Health System
+3.7","Miami, FL",Unknown,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1
+DCW-Data Science Lead for DCW-FLL/TPA-C14,-1,3.9,"Citibank
+3.9","Fort Lauderdale, FL",1001 to 5000 Employees,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+Data Analyst,-1,4.1,"DHL eCommerce
+4.1","Weston, FL",10000+ Employees,1969,Company - Private,Logistics & Supply Chain,Transportation & Logistics,$10+ billion (USD)
+Data Analyst,$34K - $72K (Glassdoor est.),3.7,"Tech Data Corporation
+3.7","Clearwater, FL",5001 to 10000 Employees,1974,Company - Public,Wholesale,Business Services,$10+ billion (USD)
+Data Engineer Intern,-1,4.3,"PlanSource
+4.3","Orlando, FL",501 to 1000 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+Data Analyst - Merchandising Systems & Services,$43K - $87K (Glassdoor est.),3.3,"Chewy
+3.3","Dania Beach, FL",10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail,$2 to $5 billion (USD)
+"Senior Scientist (Located near Eugene, Oregon)",-1,4.2,"Fall Creek Farm & Nursery, Inc.
+4.2",Florida,51 to 200 Employees,1978,Company - Private,Food Production,Agriculture & Forestry,$10 to $25 million (USD)
+Data Analyst,$40K - $84K (Glassdoor est.),-1,Morgan & Morgan,"Orlando, FL",1 to 50 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Business Intelligence Analyst,-1,4.5,"TekPartners, A P2P Company
+4.5","Boynton Beach, FL",501 to 1000 Employees,2002,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+Data Analyst - 310001,$42K - $82K (Glassdoor est.),4.2,"Procom
+4.2","Tampa, FL",5001 to 10000 Employees,1978,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+Data Analyst,$38K - $73K (Glassdoor est.),4.1,"777 Partners
+4.1","Miami, FL",201 to 500 Employees,2015,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+Computer Systems Data Analyst,$50K - $69K (Glassdoor est.),4.6,"NICO Info Systems
+4.6","Tampa, FL",1 to 50 Employees,Company - Private,IT Services,Information Technology,Less than $1 million (USD),-1
+Sr. Principal Data Scientist,$104K - $173K (Glassdoor est.),3.9,"Jabil
+3.9","Tampa, FL",10000+ Employees,1966,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD)
+Managed Care Data Analyst,$42K - $93K (Glassdoor est.),4.3,"Sarasota Memorial Health Care System
+4.3","Sarasota, FL",5001 to 10000 Employees,1925,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+Compliance Data Analyst - Global Fintech Startup,$58K - $75K (Glassdoor est.),4.3,"Crypto.com
+4.3","Miami, FL",201 to 500 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable

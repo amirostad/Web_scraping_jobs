@@ -1,0 +1,655 @@
+Job Title,Salary Estimate,Rating,Company Name,Location,Size,Founded,Type of ownership,Industry,Sector,Revenue
+Data Scientist,$80K - $148K (Glassdoor est.),3.9,"Deloitte
+3.9","Arlington, VA",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+Data Scientist,$80K - $151K (Glassdoor est.),3.9,"Leidos
+3.9","Washington, DC",10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Scientist,$79K - $148K (Glassdoor est.),3.9,"Deloitte
+3.9","Washington, DC",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+Data Scientist,$68K - $141K (Glassdoor est.),2.6,"QinetiQ Inc.
+2.6","Lorton, VA",501 to 1000 Employees,1956,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD)
+Data Scientist with TS Clearance,$86K - $155K (Glassdoor est.),3.9,"Deloitte
+3.9","Arlington, VA",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+Data Scientist,$100K - $160K (Glassdoor est.),4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Data Scientist,$79K - $131K (Glassdoor est.),3.6,"ATCS, P.L.C.
+3.6","Herndon, VA",201 to 500 Employees,1994,Company - Private,Architectural & Engineering Services,Business Services,$25 to $50 million (USD)
+Data Scientist with Polygraph,$79K - $148K (Glassdoor est.),3.9,"Deloitte
+3.9","Rosslyn, VA",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+Data Analytics Consultant (TS/SCI/polygraph),$67K - $115K (Glassdoor est.),3.9,"Deloitte
+3.9","Fort Meade, MD",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+Research Data Scientist,$71K - $133K (Glassdoor est.),3.8,"Intelligent Automation
+3.8","Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD)
+Data Scientist,$75K - $142K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","McLean, VA",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Data Scientist,$77K - $147K (Glassdoor est.),3.8,"InnovaSystems International, LLC
+3.8","Alexandria, VA",201 to 500 Employees,1997,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD)
+Sr. Big Data Engineer,$82K - $141K (Glassdoor est.),3.5,"GEICO
+3.5","Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD)
+Data Scientist,$74K - $126K (Glassdoor est.),3.5,"GEICO
+3.5","Chevy Chase, MD",10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD)
+Contract Data Analyst,$55K - $96K (Glassdoor est.),4.1,"Amyx, Inc.
+4.1","Arlington, VA",501 to 1000 Employees,1999,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Data Engineer,$69K - $124K (Glassdoor est.),3.9,"General Dynamics Mission Systems, Inc
+3.9","Chantilly, VA",10000+ Employees,1952,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+Senior Data Scientist,$93K - $168K (Glassdoor est.),3.9,"Leidos
+3.9","Bethesda, MD",10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Scientist Manager,$92K - $180K (Glassdoor est.),3.9,"Deloitte
+3.9","Arlington, VA",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+"Data Engineer – Fairfax, VA",$73K - $141K (Glassdoor est.),3.4,"Vibrent Health
+3.4","Fairfax, VA",51 to 200 Employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+Artificial Intelligence/Machine Learning Engineer Associate,$69K - $144K (Glassdoor est.),3.8,"Mitre Corporation
+3.8","McLean, VA",5001 to 10000 Employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD)
+Data Scientist,$92K - $183K (Glassdoor est.),4.1,"Copper River Shared Services
+4.1","Washington, DC",501 to 1000 Employees,2006,Company - Private,Federal Agencies,Government,$100 to $500 million (USD)
+Image Scientist,$67K - $130K (Glassdoor est.),3.9,"General Dynamics Mission Systems, Inc
+3.9","Fairfax, VA",10000+ Employees,1952,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+Data Scientist - Defense & Intelligence,$66K - $123K (Glassdoor est.),4.3,"Elder Research Inc
+4.3","Arlington, VA",51 to 200 Employees,1995,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+Data Visualization Scientist,$62K - $118K (Glassdoor est.),4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Program Finance & Data Analyst,$50K - $94K (Glassdoor est.),3.1,"The International Fund for Animal Welfare
+3.1","Washington, DC",201 to 500 Employees,1969,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD)
+Senior Data Engineer,$70K - $129K (Glassdoor est.),4.6,"Novetta
+4.6","Reston, VA",501 to 1000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+Senior Bioinformatics Scientist,$59K - $118K (Glassdoor est.),3.8,"Inova Health System
+3.8","Falls Church, VA",10000+ Employees,1956,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD)
+"Data Scientist, Senior",$85K - $149K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Chantilly, VA",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Chief Scientist Machine Learning,-1,3.9,"Leidos
+3.9","Arlington, VA",10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Architect,$84K - $160K (Glassdoor est.),4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Data Scientist,$75K - $131K (Glassdoor est.),3.5,"Perspecta
+3.5","McLean, VA",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Scientist-Senior,$96K - $169K (Glassdoor est.),3.5,"Perspecta
+3.5","Washington, DC",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Quantitative Engineer Manager - Data Scientist,$98K - $179K (Glassdoor est.),4.1,"Freddie Mac
+4.1","McLean, VA",5001 to 10000 Employees,1970,Company - Public,Lending,Finance,$10+ billion (USD)
+Business Intelligence Analyst,$67K - $134K (Glassdoor est.),3.9,"Leidos
+3.9","Reston, VA",10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Engineer,$79K - $158K (Glassdoor est.),3.9,"Leidos
+3.9","Reston, VA",10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+"Sr. Data Engineer – Fairfax, VA",$92K - $159K (Glassdoor est.),3.4,"Vibrent Health
+3.4","Fairfax, VA",51 to 200 Employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+Research Scientist - Radar,$76K - $152K (Glassdoor est.),3.8,"Intelligent Automation
+3.8","Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD)
+Sr Data Scientist - PHI,$98K - $159K (Glassdoor est.),4.1,"Exelon Corporation
+4.1","Washington, DC",10000+ Employees,2000,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (USD)
+Senior SAR Scientist/Subject Matter Expert,$78K - $127K (Glassdoor est.),3.6,"Riverside Research
+3.6","Springfield, VA",501 to 1000 Employees,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD)
+Data Scientist Technical Specialist,$75K - $131K (Glassdoor est.),3.5,"Perspecta
+3.5","McLean, VA",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Research Scientist/Engineer – Cyber Security,$64K - $130K (Glassdoor est.),3.8,"Intelligent Automation
+3.8","Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD)
+Data Scientist-Journeyman,$68K - $140K (Glassdoor est.),3.5,"Perspecta
+3.5","Washington, DC",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Senior Data Scientist - Defense & Intelligence,$81K - $143K (Glassdoor est.),4.3,"Elder Research Inc
+4.3","Fort Meade, MD",51 to 200 Employees,1995,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+Senior Research Scientist - Robotic and Autonomous Systems,$74K - $150K (Glassdoor est.),3.8,"Intelligent Automation
+3.8","Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD)
+"SCIENTIST - POTENCY BIOASSAY , ELISA , FACS",$63K - $128K (Glassdoor est.),4.0,"PPD
+4.0","Rockville, MD",10000+ Employees,1985,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+Data Engineer/Scientist TS/SCI w/POLY,$95K - $120K (Glassdoor est.),-1,AUGR LLC,"Tysons Corner, VA",-1,-1,-1,-1,-1,-1
+Data Engineer,$74K - $143K (Glassdoor est.),3.5,"CareJourney
+3.5","Arlington, VA",51 to 200 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+Data Scientist-Junior,$65K - $122K (Glassdoor est.),3.5,"Perspecta
+3.5","Washington, DC",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Analyst,$55K - $114K (Glassdoor est.),3.8,"General Dynamics Information Technology
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Data Scientist Technical Specialist,$86K - $176K (Glassdoor est.),4.0,"Peraton
+4.0","Chantilly, VA",5001 to 10000 Employees,2017,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD)
+Research Scientist / Engineer – Wireless Communications & Machine Learning,$76K - $152K (Glassdoor est.),3.8,"Intelligent Automation
+3.8","Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD)
+"Research Scientist - Computer Vision, Machine Learning",$64K - $130K (Glassdoor est.),3.8,"Intelligent Automation
+3.8","Rockville, MD",51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD)
+SR SCIENTIST - RNA ANALYTICS,$68K - $133K (Glassdoor est.),4.0,"PPD
+4.0","Rockville, MD",10000+ Employees,1985,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+Sr Data Scientist,$84K - $168K (Glassdoor est.),3.8,"General Dynamics
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Senior Data Architect - FHIR Interoperability,$102K - $197K (Glassdoor est.),-1,Edera L3C,"Washington, DC",-1,-1,-1,-1,-1,-1
+"Data Analyst, Clearance Required",$50K - $107K (Glassdoor est.),-1,Talent Gravity,"Washington, DC",-1,-1,-1,-1,-1,-1
+Chief Biological Systems Scientist,-1,4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Senior Operations Research Scientist,$96K - $183K (Glassdoor est.),4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Modeling & Experimental Research Scientist for Materials in Extreme Environments,$61K - $122K (Glassdoor est.),4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Data Analyst/Engineer,$64K - $127K (Glassdoor est.),4.4,"OneGlobe LLC
+4.4","Herndon, VA",51 to 200 Employees,2005,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+Data Engineer-Junior,$57K - $120K (Glassdoor est.),3.5,"Perspecta
+3.5","Washington, DC",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Scientist - Analytical Method Development (Analytical Chemist),$49K - $99K (Glassdoor est.),1.8,"Lentigen Technology, Inc.
+1.8","Gaithersburg, MD",1 to 50 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),-1
+Business Intelligence Analyst,$67K - $123K (Glassdoor est.),3.1,"PCAOB
+3.1","Washington, DC",501 to 1000 Employees,2003,Nonprofit Organization,Accounting,Accounting & Legal,Unknown / Non-Applicable
+Data Scientist Senior Technical Specialist,$90K - $168K (Glassdoor est.),3.5,"Perspecta
+3.5","Chantilly, VA",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+SAS Data Engineer,$74K - $143K (Glassdoor est.),3.5,"CareJourney
+3.5","Arlington, VA",51 to 200 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+Senior Data Engineer,$91K - $162K (Glassdoor est.),3.5,"CareJourney
+3.5","Arlington, VA",51 to 200 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+Data Analyst,$54K - $109K (Glassdoor est.),3.1,"Common Securitization Solutions
+3.1","Bethesda, MD",201 to 500 Employees,2013,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+Geospatial Researcher/Data Scientist,$72K - $124K (Glassdoor est.),3.8,"Battelle
+3.8","Alexandria, VA",10000+ Employees,1929,Nonprofit Organization,Research & Development,Business Services,$5 to $10 billion (USD)
+Data Scientist,$84K - $162K (Glassdoor est.),3.9,"National Security Agency
+3.9","Fort Meade, MD",Unknown,Government,Federal Agencies,Government,Unknown / Non-Applicable,-1
+Senior Clinical Research Scientist,$65K - $137K (Glassdoor est.),-1,NexImmune,"Gaithersburg, MD",-1,-1,-1,-1,-1,-1
+Project Data Analyst I - Administrative / Financial (Secret clearance required),$53K - $105K (Glassdoor est.),3.7,"Akima, LLC
+3.7","Fairfax, VA",5001 to 10000 Employees,2003,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Data Scientist,$69K - $130K (Glassdoor est.),-1,Funded.club,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$85K - $149K (Glassdoor est.),4.5,"Pivotal Software
+4.5","Washington, DC",1001 to 5000 Employees,2013,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+Data Scientist,$73K - $139K (Glassdoor est.),4.4,"Applied Information Sciences
+4.4","Chevy Chase, MD",501 to 1000 Employees,1982,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Sr. Business Data Analyst,$68K - $136K (Glassdoor est.),-1,Agiliko,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,-1,3.6,"steampunk
+3.6","McLean, VA",201 to 500 Employees,2003,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Data Scientist,-1,4.6,"XOR Security
+4.6","Washington, DC",1 to 50 Employees,Company - Public,IT Services,Information Technology,$1 to $5 million (USD),-1
+Data Scientist,$67K - $125K (Glassdoor est.),3.7,"MetroStar
+3.7","Reston, VA",201 to 500 Employees,1999,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Data Scientist,$72K - $134K (Glassdoor est.),4.4,"Avantus Federal
+4.4","McLean, VA",501 to 1000 Employees,2004,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+Data Scientist,-1,5.0,"Core4ce.com
+5.0","Washington, DC",201 to 500 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Data Scientist,-1,4.4,"Latitude, Inc.
+4.4","Alexandria, VA",1 to 50 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1
+Data Science Consultant,$64K - $145K (Glassdoor est.),3.8,"General Dynamics
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Data Scientist,$74K - $126K (Glassdoor est.),3.4,"XLA
+3.4","Washington, DC",201 to 500 Employees,1989,Private Practice / Firm,Consulting,Business Services,$25 to $50 million (USD)
+"Data Scientist, Product Analytics",$97K - $155K (Glassdoor est.),4.3,"Facebook
+4.3","Washington, DC",10000+ Employees,2004,Company - Public,Internet,Information Technology,$5 to $10 billion (USD)
+GD130 Data Center Operations Technical Support Analyst,$42K - $80K (Glassdoor est.),3.9,"ADNET Systems, Inc.
+3.9","Greenbelt, MD",201 to 500 Employees,1990,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Assessment Development Scientist,$50K - $90K (Glassdoor est.),2.6,"American Nurses Association, Inc
+2.6","Silver Spring, MD",201 to 500 Employees,Company - Private,Membership Organizations,Business Services,$25 to $50 million (USD),-1
+Data Scientist,$65K - $111K (Glassdoor est.),3.8,"Analytica
+3.8","Washington, DC",51 to 200 Employees,2009,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+Data Scientist,$65K - $110K (Glassdoor est.),4.3,"Whitney, Bradley and Brown
+4.3","Arlington, VA",501 to 1000 Employees,1981,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+Senior Quantitative Analyst,$85K - $163K (Glassdoor est.),-1,Confidential,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$82K - $139K (Glassdoor est.),3.6,"KYM Advisors
+3.6","Washington, DC",1 to 50 Employees,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,$96K - $152K (Glassdoor est.),4.5,"Tiger Analytics
+4.5","Arlington, VA",501 to 1000 Employees,2011,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+Senior Data Engineer WaPo360,$94K - $153K (Glassdoor est.),4.5,"The Washington Post
+4.5","Washington, DC",1001 to 5000 Employees,1877,Company - Private,Publishing,Media,Unknown / Non-Applicable
+Data Scientist,$83K - $105K (Glassdoor est.),5.0,"ELEVI Associates
+5.0","Annapolis Junction, MD",1 to 50 Employees,2002,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD)
+Data Scientist,$71K - $128K (Glassdoor est.),5.0,"Reports and Requirements Company, LLC
+5.0","Washington, DC",51 to 200 Employees,2008,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable
+Data Scientist,$83K - $144K (Glassdoor est.),3.9,"ERPI
+3.9","Arlington, VA",51 to 200 Employees,,,Consulting,Business Services,Unknown / Non-Applicable
+Data Scientist,$77K - $140K (Glassdoor est.),3.6,"NORC at the University of Chicago
+3.6","Bethesda, MD",1001 to 5000 Employees,1941,Nonprofit Organization,Research & Development,Business Services,$100 to $500 million (USD)
+Data Scientist,$73K - $119K (Glassdoor est.),4.2,"Artlin Consulting
+4.2","Arlington, VA",51 to 200 Employees,2011,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable
+Data Scientist,$68K - $114K (Glassdoor est.),3.9,"Grant Thornton
+3.9","Arlington, VA",5001 to 10000 Employees,1924,Company - Private,Accounting,Accounting & Legal,$1 to $2 billion (USD)
+Data Scientist,$98K - $160K (Glassdoor est.),3.8,"Central Intelligence Agency
+3.8","Washington, DC",Unknown,1947,Government,Federal Agencies,Government,Unknown / Non-Applicable
+Research Scientist,$79K - $201K (Glassdoor est.),3.4,"Metron, Inc.
+3.4","Reston, VA",201 to 500 Employees,1982,Company - Private,Research & Development,Business Services,$50 to $100 million (USD)
+Data Engineer-Senior,$93K - $162K (Glassdoor est.),3.5,"Perspecta
+3.5","Washington, DC",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Scientist,$73K - $117K (Glassdoor est.),4.2,"Varen Technologies
+4.2","Annapolis Junction, MD",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD)
+Data Scientist,$73K - $123K (Glassdoor est.),3.5,"Buchanan & Edwards
+3.5","Washington, DC",201 to 500 Employees,1998,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Data Scientist,$81K - $144K (Glassdoor est.),4.1,"LOCKHEED MARTIN CORPORATION
+4.1","Herndon, VA",10000+ Employees,1995,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Scientist,-1,5.0,"K2 Group, Inc.
+5.0","Washington, DC",1 to 50 Employees,2004,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD)
+Data Scientist,$91K - $146K (Glassdoor est.),4.1,"Thomson Reuters
+4.1","McLean, VA",10000+ Employees,2008,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD)
+Data Scientist,$70K - $126K (Glassdoor est.),4.3,"University of Maryland
+4.3","College Park, MD",10000+ Employees,1856,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+Data Science Engineer,$67K - $118K (Glassdoor est.),3.8,"General Dynamics
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Data Scientist,$66K - $125K (Glassdoor est.),4.6,"Novetta
+4.6","Fairfax, VA",501 to 1000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+"Data Scientist, Analytics - Ads Delivery Product",$110K - $146K (Glassdoor est.),4.3,"Facebook
+4.3","Washington, DC",10000+ Employees,2004,Company - Public,Internet,Information Technology,$5 to $10 billion (USD)
+"Data Scientist, Supply Chain",$66K - $132K (Glassdoor est.),4.3,"Coupa
+4.3","Washington, DC",1001 to 5000 Employees,2006,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+Data Scientist,$77K - $129K (Glassdoor est.),4.5,"Kingfisher Systems
+4.5","Falls Church, VA",51 to 200 Employees,2005,Company - Private,Federal Agencies,Government,$25 to $50 million (USD)
+Data Scientist,$70K - $123K (Glassdoor est.),3.7,"QVine Corporation
+3.7","Washington, DC",51 to 200 Employees,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),-1
+Data Scientist,$122K - $127K (Glassdoor est.),4.0,"Swain Techs
+4.0","Bethesda, MD",1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD),-1
+Data Scientist,-1,3.9,"Mackin
+3.9","Washington, DC",51 to 200 Employees,2014,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+Data Scientist,$62K - $105K (Glassdoor est.),3.6,"ICF
+3.6","Washington, DC",5001 to 10000 Employees,1969,Company - Public,Consulting,Business Services,$1 to $2 billion (USD)
+Medical Laboratory Scientist Medical Technologist 2,$48K - $77K (Glassdoor est.),3.8,"Inova Health System
+3.8","Fairfax, VA",10000+ Employees,1956,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD)
+Data Scientist,$72K - $131K (Glassdoor est.),4.4,"E-Logic, Inc.
+4.4","Washington, DC",1 to 50 Employees,2007,Company - Private,IT Services,Information Technology,$5 to $10 million (USD)
+Data Scientist,$76K - $126K (Glassdoor est.),3.6,"Vanda Pharmaceuticals
+3.6","Washington, DC",201 to 500 Employees,2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+Data Scientist,$84K - $144K (Glassdoor est.),3.8,"Amazon Web Services, Inc.
+3.8","Arlington, VA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Data Scientist,$58K - $79K (Glassdoor est.),3.9,"VTG
+3.9","Alexandria, VA",1001 to 5000 Employees,1966,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD)
+Data Scientist,$71K - $139K (Glassdoor est.),-1,FAAZ Consulting,"Arlington, VA",-1,-1,-1,-1,-1,-1
+Senior Data Engineer,$94K - $153K (Glassdoor est.),4.5,"The Washington Post
+4.5","Washington, DC",1001 to 5000 Employees,1877,Company - Private,Publishing,Media,Unknown / Non-Applicable
+Senior Scientist,$83K - $176K (Glassdoor est.),-1,HeMemics Biotech,"Gaithersburg, MD",-1,-1,-1,-1,-1,-1
+Data Center Construction Project Manager / Leader - Mission Critical (Arlington),$73K - $154K (Glassdoor est.),4.0,"Burns & McDonnell
+4.0","Arlington, VA",5001 to 10000 Employees,1898,Company - Private,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD)
+Data Scientist,$71K - $141K (Glassdoor est.),-1,iCatalyst,"Tysons Corner, VA",51 to 200 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Research Data Scientist,$96K - $154K (Glassdoor est.),4.3,"Facebook
+4.3","Washington, DC",10000+ Employees,2004,Company - Public,Internet,Information Technology,$5 to $10 billion (USD)
+Data Scientist,$64K - $115K (Glassdoor est.),4.4,"Barbaricum
+4.4","McLean, VA",51 to 200 Employees,2008,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+Data Scientist,$81K - $145K (Glassdoor est.),3.9,"T. White Parker Associates, Inc.
+3.9","Washington, DC",1 to 50 Employees,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),-1
+Data Scientist,$80K - $155K (Glassdoor est.),4.2,"Slalom LLC.
+4.2","Washington, DC",5001 to 10000 Employees,2001,Company - Private,Consulting,Business Services,$2 to $5 billion (USD)
+Data Science Support Analyst (Senior),$95K - $162K (Glassdoor est.),3.9,"BAE Systems
+3.9","McLean, VA",10000+ Employees,1999,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Scientist,$81K - $143K (Glassdoor est.),4.2,"Council for Affordable Quality Healthcare
+4.2","Washington, DC",51 to 200 Employees,2000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD)
+Data Scientist,-1,4.5,"Quick Services LLC
+4.5","Springfield, VA",51 to 200 Employees,2003,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD)
+Data Scientist,-1,-1,StaffDrafts,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$66K - $128K (Glassdoor est.),-1,Hamdan Resources,"Reston, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$89K - $163K (Glassdoor est.),3.2,"CENTRA Technology
+3.2","Washington, DC",201 to 500 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+Data Scientist,$88K - $145K (Glassdoor est.),3.8,"McGuireWoods LLP
+3.8","Washington, DC",1001 to 5000 Employees,1952,Company - Private,Legal,Accounting & Legal,$100 to $500 million (USD)
+Data Scientist,$83K - $143K (Glassdoor est.),4.9,"Thompson Gray Inc.
+4.9","Arlington, VA",51 to 200 Employees,2008,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD)
+Data Modeler,$69K - $156K (Glassdoor est.),3.5,"Perspecta
+3.5","Chantilly, VA",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Scientist,$75K - $154K (Glassdoor est.),3.3,"Amida Technology Solutions
+3.3","Washington, DC",1 to 50 Employees,2013,Company - Private,IT Services,Information Technology,$5 to $10 million (USD)
+Senior SAS Data Engineer,$91K - $162K (Glassdoor est.),3.5,"CareJourney
+3.5","Arlington, VA",51 to 200 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+Data Scientist-Prime Contract,$97K - $160K (Glassdoor est.),4.5,"Red Arch Solutions
+4.5","Chantilly, VA",51 to 200 Employees,2004,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+Data Scientist,$79K - $138K (Glassdoor est.),-1,Visual Connections,"Chevy Chase, MD",1 to 50 Employees,2013,Company - Public,Talent & Modeling Agencies,"Arts, Entertainment & Recreation",$5 to $10 million (USD)
+Data Scientist- J8 WAD,$68K - $133K (Glassdoor est.),4.4,"Group W
+4.4","Vienna, VA",51 to 200 Employees,Company - Private,Research & Development,Business Services,$5 to $10 million (USD),-1
+Data Scientist,-1,4.5,"Piper Companies
+4.5","Washington, DC",201 to 500 Employees,2011,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+Data Scientist,$70K - $140K (Glassdoor est.),-1,Delaware Nation Industries,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,-1,-1,KLM Careers,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$77K - $148K (Glassdoor est.),3.8,"SRI International
+3.8","Arlington, VA",1001 to 5000 Employees,1946,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD)
+Data Scientist,$71K - $124K (Glassdoor est.),-1,Bridges Consulting,"Fort Meade, MD",-1,-1,-1,-1,-1,-1
+Data Scientist,$68K - $131K (Glassdoor est.),5.0,"Tripoint Solutions
+5.0","Alexandria, VA",1 to 50 Employees,2013,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Data Scientist,$84K - $162K (Glassdoor est.),3.8,"General Dynamics Information Technology
+3.8","Springfield, VA",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Data Engineer-Journeyman,$60K - $133K (Glassdoor est.),3.5,"Perspecta
+3.5","Washington, DC",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Scientist,$70K - $122K (Glassdoor est.),4.0,"Synectics for Management Decisions Inc
+4.0","Washington, DC",51 to 200 Employees,1969,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+Data Scientist,$92K - $147K (Glassdoor est.),-1,"TACG, LLC","Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$80K - $121K (Glassdoor est.),3.2,"Kapitus
+3.2","Arlington, VA",201 to 500 Employees,Self-employed,Unknown / Non-Applicable,-1,-1,-1
+Data Scientist (M&I),$61K - $102K (Glassdoor est.),3.9,"Grant Thornton
+3.9","Arlington, VA",5001 to 10000 Employees,1924,Company - Private,Accounting,Accounting & Legal,$1 to $2 billion (USD)
+Data Scientist,$69K - $118K (Glassdoor est.),5.0,"2HB Incorporated
+5.0","McLean, VA",1 to 50 Employees,1994,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+Data Scientist,$105K - $130K (Glassdoor est.),4.9,"GetUpside
+4.9","Washington, DC",51 to 200 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+Data Scientist,$75K - $144K (Glassdoor est.),4.5,"Azimuth Corporation
+4.5","Washington, DC",51 to 200 Employees,2001,Company - Private,Federal Agencies,Government,$5 to $10 million (USD)
+HR Data Analyst,$57K - $100K (Glassdoor est.),4.3,"Noblis
+4.3","Reston, VA",1001 to 5000 Employees,1996,Nonprofit Organization,Consulting,Business Services,$100 to $500 million (USD)
+Data Scientist,$77K - $162K (Glassdoor est.),4.3,"Aptive
+4.3","Falls Church, VA",51 to 200 Employees,2012,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+Data Scientist,$95K - $113K (Glassdoor est.),3.3,"SOSi
+3.3","Fort Meade, MD",501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD)
+Data Scientist,-1,4.8,"BrainTrust Holdings
+4.8","Annapolis Junction, MD",51 to 200 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+"Data Scientist, Monetization",-1,3.7,"The Knot Worldwide
+3.7","Washington, DC",1001 to 5000 Employees,2019,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+Data Science Support Analyst (Journeyman),$64K - $134K (Glassdoor est.),3.9,"BAE Systems
+3.9","McLean, VA",10000+ Employees,1999,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Scientist,$71K - $133K (Glassdoor est.),4.0,"Peraton
+4.0","McLean, VA",5001 to 10000 Employees,2017,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD)
+ES194 Earth Science Data Support,$43K - $90K (Glassdoor est.),3.9,"ADNET Systems, Inc.
+3.9","Lanham, MD",201 to 500 Employees,1990,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+Data Scientist,$75K - $122K (Glassdoor est.),3.0,"TransVoyant
+3.0","Alexandria, VA",51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+Data Scientist,$83K - $100K (Glassdoor est.),3.9,"BRIDGES Inc.
+3.9","Fort Meade, MD",51 to 200 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD)
+Data Scientist,$76K - $142K (Glassdoor est.),3.8,"CACI
+3.8","Washington, DC",10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+Data Scientist,$64K - $113K (Glassdoor est.),3.7,"Huntington Ingalls Industries Inc.
+3.7","Fort George G Meade, MD",10000+ Employees,2011,Company - Public,Aerospace & Defense,Aerospace & Defense,$5 to $10 billion (USD)
+Data Scientist,$73K - $142K (Glassdoor est.),3.7,"Centauri
+3.7","Washington, DC",10000+ Employees,1901,Company - Public,Construction,"Construction, Repair & Maintenance",$5 to $10 billion (USD)
+Data Scientist,$83K - $143K (Glassdoor est.),-1,ISE Data Systems,"Reston, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$83K - $126K (Glassdoor est.),5.0,"SSATI
+5.0","Chantilly, VA",1 to 50 Employees,2003,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+Data Scientist,$92K - $182K (Glassdoor est.),4.3,"Noblis
+4.3","Reston, VA",1001 to 5000 Employees,1996,Nonprofit Organization,Consulting,Business Services,$100 to $500 million (USD)
+Data Scientist,$38K - $62K (Glassdoor est.),3.7,"Axle Informatics
+3.7","Rockville, MD",1 to 50 Employees,2004,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD)
+Data Scientist,$68K - $131K (Glassdoor est.),3.4,"Telnet Inc
+3.4","Washington, DC",51 to 200 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Senior Data Analyst,$77K - $136K (Glassdoor est.),3.8,"General Dynamics
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Data Scientist,$72K - $140K (Glassdoor est.),3.8,"Mitre Corporation
+3.8","McLean, VA",5001 to 10000 Employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD)
+Data Scientist,$76K - $142K (Glassdoor est.),3.6,"Trident Systems Inc
+3.6","Fairfax, VA",1001 to 5000 Employees,1916,Company - Private,Miscellaneous Manufacturing,Manufacturing,$100 to $500 million (USD)
+Data Scientist,$69K - $125K (Glassdoor est.),3.8,"TechFlow, Inc
+3.8","Herndon, VA",201 to 500 Employees,1995,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+Data Scientist,$70K - $142K (Glassdoor est.),2.8,"BTree Solutions Inc
+2.8","McLean, VA",1 to 50 Employees,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),-1
+Data Scientist,$66K - $136K (Glassdoor est.),4.6,"IntelliGenesis, LLC
+4.6","McLean, VA",51 to 200 Employees,2007,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD)
+Data Scientist,-1,4.4,"InTec, LLC
+4.4","Springfield, VA",51 to 200 Employees,2004,Company - Private,Research & Development,Business Services,$25 to $50 million (USD)
+Data Scientist,$79K - $144K (Glassdoor est.),3.9,"Kearney & Company
+3.9","Arlington, VA",501 to 1000 Employees,1985,Company - Private,Accounting,Accounting & Legal,$100 to $500 million (USD)
+Quantitative Engineer Manager - Data Scientist,$98K - $179K (Glassdoor est.),4.1,"Freddie Mac
+4.1","McLean, VA",5001 to 10000 Employees,1970,Company - Public,Lending,Finance,$10+ billion (USD)
+Data Scientist- Biotech,$74K - $141K (Glassdoor est.),-1,Provident Research Inc,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$71K - $119K (Glassdoor est.),3.3,"NewGen Technologies
+3.3","Reston, VA",1001 to 5000 Employees,1992,Company - Public,IT Services,Information Technology,$50 to $100 million (USD)
+Data Scientist,$67K - $128K (Glassdoor est.),5.0,"Iron EagleX
+5.0","Arlington, VA",1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,$82K - $145K (Glassdoor est.),3.9,"Grant Thornton
+3.9","Arlington, VA",1001 to 5000 Employees,Self-employed,Accounting,Accounting & Legal,$500 million to $1 billion (USD),-1
+Data Scientist,-1,3.0,"InSequence, Inc
+3.0","Springfield, VA",1 to 50 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD)
+Data Scientist,$66K - $123K (Glassdoor est.),4.3,"Elder Research Inc
+4.3","Arlington, VA",51 to 200 Employees,1995,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+Data Scientist,$77K - $131K (Glassdoor est.),3.8,"Circinus LLC
+3.8","Fort Belvoir, VA",51 to 200 Employees,2001,Company - Private,Aerospace & Defense,Aerospace & Defense,$5 to $10 million (USD)
+Data Scientist,$70K - $125K (Glassdoor est.),3.6,"Salient CRGT
+3.6","Arlington, VA",1001 to 5000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1
+Data Scientist,$65K - $116K (Glassdoor est.),4.9,"Visionist, Inc.
+4.9","Fort Meade, MD",51 to 200 Employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+Data Scientist,$74K - $130K (Glassdoor est.),-1,DigitCompass,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$65K - $115K (Glassdoor est.),3.7,"Elder Research Inc
+3.7","Arlington, VA",1 to 50 Employees,College / University,Colleges & Universities,Education,Less than $1 million (USD),-1
+Senior Data Analyst (002.082),$85K - $162K (Glassdoor est.),3.8,"General Dynamics
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Senior Data Analyst - Top Secret required,$77K - $136K (Glassdoor est.),3.8,"General Dynamics
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Data Scientist,-1,-1,Serry Systems,"Arlington, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$85K - $143K (Glassdoor est.),4.0,"Convirgence Consulting
+4.0","Herndon, VA",1 to 50 Employees,Company - Private,Less than $1 million (USD),-1,-1,-1
+Data Scientist,$72K - $91K (Glassdoor est.),5.0,"Reveal Global Consulting LLC
+5.0","Fulton, MD",1 to 50 Employees,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable,-1
+Federal Data Analyst / Systems Programmer,$63K - $143K (Glassdoor est.),-1,"Lynch Consultants, LLC","Springfield, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$70K - $117K (Glassdoor est.),-1,CEDENT,"Springfield, VA",1 to 50 Employees,Contract,Computer Hardware & Software,Information Technology,Less than $1 million (USD),-1
+Data Scientist,-1,-1,Booz Allen Hamilton,"McLean, VA",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Data Scientist Specialist,$83K - $147K (Glassdoor est.),3.9,"Deloitte
+3.9","Arlington, VA",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+Data Scientist/Machine Learning Engineer,$52K - $92K (Glassdoor est.),3.1,"Atlas Research
+3.1","Washington, DC",201 to 500 Employees,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD)
+Data Scientist,$69K - $127K (Glassdoor est.),3.5,"Valiant Integrated Services
+3.5","McLean, VA",1001 to 5000 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,-1
+Data Scientist,$71K - $139K (Glassdoor est.),-1,Cognowiz solutions LLC,"Herndon, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,-1,4.1,"Syntelligent Analytic Solutions, LLC
+4.1","Washington, DC",51 to 200 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 million (USD)
+Data Scientist,$75K - $144K (Glassdoor est.),5.0,"WhirlWind Technologies, LLC
+5.0","Suitland, MD",1 to 50 Employees,Company - Public,$1 to $5 million (USD),-1,-1,-1
+Data Scientist,$74K - $130K (Glassdoor est.),3.8,"Afiniti
+3.8","Washington, DC",501 to 1000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),-1
+Data Scientist,$80K - $151K (Glassdoor est.),-1,Deloitte,"Rosslyn, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$71K - $115K (Glassdoor est.),3.6,"Smart Synergies, Inc.
+3.6","Suitland, MD",1 to 50 Employees,Company - Private,Consulting,Business Services,Less than $1 million (USD),-1
+Data Scientist,$65K - $109K (Glassdoor est.),4.0,"SAIC
+4.0","Chantilly, VA",10000+ Employees,2013,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD)
+Data Scientist,-1,-1,Emprata,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$104K - $125K (Glassdoor est.),4.0,"NT Concepts
+4.0","Vienna, VA",51 to 200 Employees,1998,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+Data Scientist,$67K - $127K (Glassdoor est.),3.5,"The DarkStar Group LLC
+3.5","Herndon, VA",1 to 50 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Data Scientist,$79K - $131K (Glassdoor est.),2.9,"Gannett
+2.9","McLean, VA",10000+ Employees,1906,Company - Public,Publishing,Media,$2 to $5 billion (USD)
+Data Scientist,$74K - $138K (Glassdoor est.),5.0,"LufCo
+5.0","Annapolis Junction, MD",1 to 50 Employees,2004,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Data Scientist,$72K - $129K (Glassdoor est.),3.9,"BAE Systems
+3.9","Sterling, VA",10000+ Employees,1999,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+Data Scientist,$57K - $146K (Glassdoor est.),4.7,"CS2
+4.7","Fort Meade, MD",51 to 200 Employees,2005,Company - Private,IT Services,Information Technology,$5 to $10 million (USD)
+Data Scientist,$69K - $122K (Glassdoor est.),-1,MetroStar,"Reston, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$79K - $152K (Glassdoor est.),3.9,"Acuity INC
+3.9","Reston, VA",51 to 200 Employees,2002,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+Data Engineer – Salesforce Einstein,$75K - $147K (Glassdoor est.),3.8,"General Dynamics
+3.8","Washington, DC",10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+Data Scientist,$63K - $106K (Glassdoor est.),3.8,"Prescient Edge Federal
+3.8","Springfield, VA",51 to 200 Employees,2008,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Scientist,$89K - $166K (Glassdoor est.),4.8,"Darkblade Systems Corporation
+4.8","Tysons Corner, VA",51 to 200 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD)
+Data Scientist,$70K - $128K (Glassdoor est.),-1,RCT-Systems,"McLean, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$75K - $135K (Glassdoor est.),4.2,"FourthWall Media
+4.2","Sterling, VA",51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,$5 to $10 million (USD),-1
+Data Scientist,$80K - $121K (Glassdoor est.),-1,HawkEye 360,"Herndon, VA",-1,-1,-1,-1,-1,-1
+Research Scientist - Software Defined Radio,$76K - $167K (Glassdoor est.),3.5,"Perspecta
+3.5","College Park, MD",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Scientist,$70K - $113K (Glassdoor est.),4.3,"Cisco Systems
+4.3","Herndon, VA",10000+ Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+Data Scientist,$70K - $140K (Glassdoor est.),-1,United Solutions LLC,"Rockville, MD",-1,-1,-1,-1,-1,-1
+Data Scientist,$78K - $158K (Glassdoor est.),3.6,"VB
+3.6","Sterling, VA",201 to 500 Employees,1996,Company - Private,Unknown / Non-Applicable,-1,-1
+Data Scientist,$83K - $170K (Glassdoor est.),4.0,"Array Information Technology, Inc.
+4.0","Fairfax, VA",201 to 500 Employees,1997,Company - Private,Consulting,Business Services,$50 to $100 million (USD)
+Data Scientist,$72K - $130K (Glassdoor est.),-1,Tulk LLC,"Springfield, VA",-1,-1,-1,-1,-1,-1
+Health Data Scientist,$67K - $134K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Bethesda, MD",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+ICM Quantitative Analytics Senior - Data Science,$111K - $180K (Glassdoor est.),4.1,"Freddie Mac
+4.1","McLean, VA",5001 to 10000 Employees,1970,Company - Public,Lending,Finance,$10+ billion (USD)
+Data Scientist,$74K - $136K (Glassdoor est.),3.8,"Intelligent Shift, LLC.
+3.8","Chantilly, VA",1 to 50 Employees,2017,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Data Scientist,$87K - $167K (Glassdoor est.),3.5,"ASRC Federal Holding Company
+3.5","Reston, VA",5001 to 10000 Employees,2003,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Data Scientist,$85K - $159K (Glassdoor est.),4.2,"Applied Research Associates, Inc
+4.2","Reston, VA",1001 to 5000 Employees,1979,Company - Private,Federal Agencies,Government,$100 to $500 million (USD)
+Data Scientist,$75K - $124K (Glassdoor est.),-1,HNM Global Solutions,"Sterling, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$96K - $183K (Glassdoor est.),4.1,"Brillient Corporation
+4.1","Silver Spring, MD",1001 to 5000 Employees,2006,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+"Data Scientist, Mid",$83K - $153K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Washington, DC",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Data Scientist,$71K - $139K (Glassdoor est.),-1,Stellar Inc.,"Reston, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$78K - $130K (Glassdoor est.),3.9,"General Dynamics Mission Systems
+3.9","Chantilly, VA",10000+ Employees,1952,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+Data Scientist,$78K - $125K (Glassdoor est.),-1,Dezign Concepts LLC,"Reston, VA",-1,-1,-1,-1,-1,-1
+Federal - Data Scientist,$96K - $190K (Glassdoor est.),4.0,"Accenture
+4.0","Washington, DC",10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD)
+Data Scientist,-1,-1,4S-Silversword Software and Services,"Silver Spring, MD",-1,-1,-1,-1,-1,-1
+BIM Data Analyst,$54K - $105K (Glassdoor est.),-1,National Institute of Building Sciences,"Washington, DC",-1,-1,-1,-1,-1,-1
+Entry Level Data Scientist,$50K - $88K (Glassdoor est.),3.8,"Summit Consulting
+3.8","Washington, DC",51 to 200 Employees,2003,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+Data Scientist,-1,4.8,"Acclaim Technical Services
+4.8","Chantilly, VA",201 to 500 Employees,2000,Company - Private,Consulting,Business Services,$50 to $100 million (USD)
+Data Scientist,$80K - $157K (Glassdoor est.),5.0,"Interclypse Inc
+5.0","Chantilly, VA",51 to 200 Employees,2007,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+Data Scientist,$68K - $134K (Glassdoor est.),-1,VivusTech,"Chantilly, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$65K - $123K (Glassdoor est.),4.7,"SoSACorp
+4.7","Fairfax, VA",51 to 200 Employees,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),-1
+Data Scientist,$74K - $135K (Glassdoor est.),3.1,"FEDDATA
+3.1","Annapolis Junction, MD",1 to 50 Employees,Contract,IT Services,Information Technology,$5 to $10 million (USD),-1
+Data Scientist,$93K - $164K (Glassdoor est.),4.3,"Cisco Systems
+4.3","Herndon, VA",10000+ Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+Data Scientist,-1,4.6,"Entegra Systems
+4.6","Annapolis Junction, MD",51 to 200 Employees,Company - Public,IT Services,Information Technology,$1 to $5 million (USD),-1
+Data Scientist - Inference and Analytics,$74K - $123K (Glassdoor est.),4.8,"Collage.com
+4.8","Washington, DC",51 to 200 Employees,2011,Company - Private,Internet,Information Technology,$50 to $100 million (USD)
+Data Scientist,$70K - $122K (Glassdoor est.),-1,Cognitio,"Reston, VA",201 to 500 Employees,Company - Private,Unknown / Non-Applicable,-1,-1,-1
+Systems Engineer - Data Engineer,$88K - $166K (Glassdoor est.),3.5,"Perspecta
+3.5","Fort Meade, MD",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Data Scientist,$87K - $129K (Glassdoor est.),4.2,"Navstar, Inc.
+4.2","Springfield, VA",51 to 200 Employees,1999,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+Data Scientist,$70K - $128K (Glassdoor est.),3.6,"DataLab USA
+3.6","Germantown, MD",51 to 200 Employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist I,$75K - $137K (Glassdoor est.),4.1,"Planned Systems International
+4.1","Washington, DC",501 to 1000 Employees,1988,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+Data Scientist/Engineer DS21-1,-1,4.8,"Datasync Techonlogies Inc
+4.8","Tysons Corner, VA",1 to 50 Employees,2003,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Data Scientist,$87K - $157K (Glassdoor est.),4.1,"The Aerospace Corporation
+4.1","Chantilly, VA",1001 to 5000 Employees,1960,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Data Scientist I,$75K - $124K (Glassdoor est.),3.1,"Conduent
+3.1","Germantown, MD",10000+ Employees,2017,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+HPC / Computational Data Scientist with Clearance,-1,-1,CI Software,"Washington, DC",-1,-1,-1,-1,-1,-1
+Data Scientist,$66K - $111K (Glassdoor est.),4.4,"Moseley Technical Services
+4.4","Chantilly, VA",51 to 200 Employees,1994,Contract,IT Services,Information Technology,$25 to $50 million (USD)
+"Data Scientist, Consultant",$75K - $142K (Glassdoor est.),3.8,"Guidehouse
+3.8","Washington, DC",5001 to 10000 Employees,2018,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+Head Start Data Analytics Manager,-1,2.2,"DLH Corp
+2.2","Silver Spring, MD",501 to 1000 Employees,Company - Public,Unknown / Non-Applicable,-1,-1,-1
+Junior Data Scientist,$61K - $132K (Glassdoor est.),4.3,"Sawdey Solution Services, Inc.
+4.3","Fort Belvoir, VA",201 to 500 Employees,2001,Company - Public,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD)
+AWS Data Scientist,$69K - $141K (Glassdoor est.),3.6,"Infinitive Inc
+3.6","Washington, DC",51 to 200 Employees,2003,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+Data Scientist,$101K - $186K (Glassdoor est.),-1,Byte Systems,"Reston, VA",-1,-1,-1,-1,-1,-1
+Data Scientist,$62K - $111K (Glassdoor est.),4.2,"Peterson Technologies
+4.2","Fort Meade, MD",1 to 50 Employees,2001,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Data Engineer,$65K - $132K (Glassdoor est.),4.9,"IntraFi Network
+4.9","Arlington, VA",201 to 500 Employees,2002,Company - Private,Financial Transaction Processing,Finance,Unknown / Non-Applicable
+Data Scientist/Lead Data Scientist,$58K - $98K (Glassdoor est.),4.4,"BlueLabs
+4.4","Washington, DC",1 to 50 Employees,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1
+Entry Level Data Scientist,-1,4.4,"Latitude, Inc.
+4.4","Fort Belvoir, VA",1 to 50 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1
+Data Scientist - Impact team Insights,$71K - $132K (Glassdoor est.),4.4,"Ursus
+4.4","Washington, DC",1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+Data Scientist (Junior),$66K - $140K (Glassdoor est.),3.7,"Calhoun International, LLC
+3.7","Washington, DC",1 to 50 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1
+"Computational Scientist (Neuroimaging) - NIH - Bethesda, MD",-1,3.5,"Kelly
+3.5","Washington, DC",5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+Junior Data Scientist,$66K - $129K (Glassdoor est.),3.8,"CACI
+3.8","Washington, DC",10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+Customer Facing Data Scientist,-1,3.8,"DataRobot
+3.8","Washington, DC",1001 to 5000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+SAS DATA ANALYST,$58K - $118K (Glassdoor est.),-1,"RJM Technologies, Inc.","Washington, DC",-1,-1,-1,-1,-1,-1
+Signal and Information Processing Research Scientist,$64K - $135K (Glassdoor est.),3.4,"Metron, Inc.
+3.4","Reston, VA",201 to 500 Employees,1982,Company - Private,Research & Development,Business Services,$50 to $100 million (USD)
+ORSA/Data Scientist,-1,4.7,"Firebird AST
+4.7","Alexandria, VA",51 to 200 Employees,2011,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable
+"Senior Data Scientist - Opportunity for Working Remotely Washington, D.C.",$103K - $189K (Glassdoor est.),4.3,"VMware Engineering
+4.3","Washington, DC",10000+ Employees,1998,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+Data Scientist II,$51K - $90K (Glassdoor est.),3.7,"Axle Informatics
+3.7","Rockville, MD",1 to 50 Employees,2004,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD)
+Data Scientist - DCCA,$83K - $148K (Glassdoor est.),4.3,"Federal Reserve Board of Governors
+4.3","Washington, DC",1001 to 5000 Employees,1913,Government,Federal Agencies,Government,Unknown / Non-Applicable
+Data Scientist (M&I),$72K - $144K (Glassdoor est.),3.9,"Grant Thornton
+3.9","Arlington, VA",1001 to 5000 Employees,Self-employed,Accounting,Accounting & Legal,$500 million to $1 billion (USD),-1
+"Data Scientist Level 1 - Annapolis Junction, MD",$71K - $119K (Glassdoor est.),4.4,"Sentar
+4.4","Fort George G Meade, MD",201 to 500 Employees,1990,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Machine Learning Engineer,$80K - $136K (Glassdoor est.),4.5,"The Washington Post
+4.5","Washington, DC",1001 to 5000 Employees,1877,Company - Private,Publishing,Media,Unknown / Non-Applicable
+Data Scientist 2,$73K - $127K (Glassdoor est.),4.2,"MOSAIC Technologies Group
+4.2","Annapolis Junction, MD",201 to 500 Employees,2005,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+Data Scientist II,$76K - $126K (Glassdoor est.),3.8,"Amazon.com Services LLC
+3.8","Arlington, VA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Data Scientist II,$91K - $144K (Glassdoor est.),3.1,"Conduent
+3.1","Germantown, MD",10000+ Employees,2017,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+Health Informatics Data Scientist,$67K - $129K (Glassdoor est.),2.8,"NorthTide Group
+2.8","Bethesda, MD",Unknown,Government,Accounting,Accounting & Legal,Unknown / Non-Applicable,-1
+Data Engineer,$74K - $150K (Glassdoor est.),4.0,"Peraton
+4.0","Washington, DC",5001 to 10000 Employees,2017,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD)
+"Bioinformatics Scientist - NIH - Baltimore, MD",-1,3.5,"Kelly
+3.5","Washington, DC",5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+Data Scientist - Nationwide Opportunities,-1,3.8,"Amazon Web Services, Inc.
+3.8","Arlington, VA",10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+Machine Learning Data Scientist,$75K - $142K (Glassdoor est.),-1,Blue Sky Innovators,"Chantilly, VA",-1,-1,-1,-1,-1,-1
+"Data Scientist, Customer Intelligence - Opportunity for Working Remotely Washington, D.C.",$89K - $161K (Glassdoor est.),4.3,"VMware
+4.3","Washington, DC",10000+ Employees,1998,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+Bioinformatics Data Scientist,$69K - $127K (Glassdoor est.),4.8,"Jobot
+4.8","Gaithersburg, MD",51 to 200 Employees,2018,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+Secret Cleared Data Scientist/Machine Learning Engineer,-1,4.4,"Latitude, Inc.
+4.4","Arlington, VA",1 to 50 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1
+Data Analyst,$52K - $99K (Glassdoor est.),5.0,"Contracting Resources Group, Inc.
+5.0","Vienna, VA",1 to 50 Employees,2002,Company - Private,Consulting,Business Services,$5 to $10 million (USD)
+Data Analyst,$44K - $82K (Glassdoor est.),2.7,"National Association of Community Health Centers
+2.7","Bethesda, MD",51 to 200 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD),-1
+Secret Cleared Data Scientist,-1,4.4,"Latitude, Inc.
+4.4","Suitland, MD",1 to 50 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1
+Associate Data Scientist,$60K - $115K (Glassdoor est.),4.3,"University of Maryland
+4.3","College Park, MD",10000+ Employees,1856,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+Junior Data Scientist,$62K - $119K (Glassdoor est.),-1,TechSur Solutions,"Washington, DC",-1,-1,-1,-1,-1,-1
+analyst & data scientist,$68K - $113K (Glassdoor est.),4.0,"Clarity Campaign Labs
+4.0","Washington, DC",1 to 50 Employees,Company - Private,Less than $1 million (USD),-1,-1,-1
+Scientist,$54K - $110K (Glassdoor est.),3.3,"Meso Scale Diagnostics, LLC.
+3.3","Gaithersburg, MD",201 to 500 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),-1
+Data Scientist/Machine Learning Engineer,-1,4.4,"Latitude, Inc.
+4.4","McLean, VA",1 to 50 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1
+Data Scientist II,$80K - $140K (Glassdoor est.),4.1,"Planned Systems International
+4.1","Washington, DC",501 to 1000 Employees,1988,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+Data Scientist (Applied),-1,-1,"Parenthetic, LLC","Washington, DC",-1,-1,-1,-1,-1,-1
+"Senior Data Scientist - Opportunity for Working Remotely Reston, VA",$103K - $189K (Glassdoor est.),4.3,"VMware Engineering
+4.3","Reston, VA",10000+ Employees,1998,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+Data Scientist/Statistician II - Cyber,$80K - $136K (Glassdoor est.),4.2,"Celestar Corporation
+4.2","Washington, DC",1 to 50 Employees,Company - Private,Wholesale,Business Services,Less than $1 million (USD),-1
+Data Management & Analysis SME / Data Scientist,$86K - $155K (Glassdoor est.),3.6,"ICF
+3.6","Washington, DC",5001 to 10000 Employees,1969,Company - Public,Consulting,Business Services,$1 to $2 billion (USD)
+Data Scientist/Statistician II - INTEL,$80K - $136K (Glassdoor est.),4.2,"Celestar Corporation
+4.2","Washington, DC",1 to 50 Employees,Company - Private,Wholesale,Business Services,Less than $1 million (USD),-1
+Data Scientist (Remote),$67K - $139K (Glassdoor est.),4.3,"Improvix Technologies
+4.3","Washington, DC",1 to 50 Employees,Company - Public,Unknown / Non-Applicable,-1,-1,-1
+"Research Data Scientist, Mid",$75K - $142K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Washington, DC",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Cyber Security Senior Research Scientist,$75K - $177K (Glassdoor est.),3.5,"Perspecta
+3.5","Silver Spring, MD",10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable
+Research Data Scientist,$76K - $143K (Glassdoor est.),4.2,"Booz Allen Hamilton
+4.2","Washington, DC",10000+ Employees,1914,Company - Public,Consulting,Business Services,$5 to $10 billion (USD)
+Data Scientist (DIAP),$88K - $150K (Glassdoor est.),4.2,"Celestar Corporation
+4.2","Washington, DC",1 to 50 Employees,Company - Private,Wholesale,Business Services,Less than $1 million (USD),-1
+Big Data Engineer,$78K - $163K (Glassdoor est.),4.0,"Peraton
+4.0","Chantilly, VA",5001 to 10000 Employees,2017,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD)
+Data Scientist III (Bethesda or 100% Remote),$84K - $148K (Glassdoor est.),4.2,"Radian
+4.2","Bethesda, MD",1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD)
+"Consultant - Advanced Solutions, Energy Data Scientist - Campus 2021",$73K - $131K (Glassdoor est.),3.8,"Guidehouse
+3.8","Washington, DC",5001 to 10000 Employees,2018,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+"Data Scientist, Jr",$65K - $123K (Glassdoor est.),3.9,"Jacobs
+3.9","Herndon, VA",10000+ Employees,1947,Company - Public,Architectural & Engineering Services,Business Services,$10+ billion (USD)
+"Data Scientist, Managing Consultant - Financial Management",$83K - $145K (Glassdoor est.),3.8,"Guidehouse
+3.8","Washington, DC",5001 to 10000 Employees,2018,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+"Data Scientist, International (bilingual)",$78K - $134K (Glassdoor est.),3.9,"Warner Music Group
+3.9","Washington, DC",1001 to 5000 Employees,2003,Company - Public,Music Production & Distribution,Media,$2 to $5 billion (USD)
+"Data Scientist, Consultant - Financial Management",$72K - $124K (Glassdoor est.),3.8,"Guidehouse
+3.8","Washington, DC",5001 to 10000 Employees,2018,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+Data Scientist / Big Data Analyst,$69K - $139K (Glassdoor est.),-1,Assyst International Pvt Ltd,"Arlington, VA",-1,-1,-1,-1,-1,-1
+Data Scientist (Active Secret Clearance),$86K - $159K (Glassdoor est.),3.7,"Cloud Lake
+3.7","Washington, DC",5001 to 10000 Employees,2003,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+Business Intelligence Analyst I/II,$56K - $123K (Glassdoor est.),4.1,"Navy Federal Credit Union
+4.1","Vienna, VA",10000+ Employees,1933,Self-employed,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+Data Scientist Consultant,$70K - $130K (Glassdoor est.),3.9,"Deloitte
+3.9","Arlington, VA",10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+Data Scientist TS/SCI,$65K - $126K (Glassdoor est.),3.9,"TENICA and Associates LLC
+3.9","Washington, DC",51 to 200 Employees,Company - Private,$10 to $25 million (USD),-1,-1,-1
+Data Scientist Risk Analyst,$72K - $136K (Glassdoor est.),4.5,"Oasis Systems LLC
+4.5","Washington, DC",1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+Diversity and Inclusion Workforce Data Scientist,$84K - $163K (Glassdoor est.),5.0,"CIDIS
+5.0","Washington, DC",1 to 50 Employees,Contract,Unknown / Non-Applicable,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
+Diversity and Inclusion Workforce Data Scientist,-1,-1,"CIDIS
+5.0","Washington, DC",-1,-1,-1,-1,-1,-1
