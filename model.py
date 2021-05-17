@@ -32,7 +32,8 @@ def get_model(X):
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,
                                                             random_state=23)
     
-    cv = cross_val_score(rf,X_train,y_train,cv=10)
+    cv = cross_val_score(rf,X_train,y_train, 
+                         scoring='neg_root_mean_squared_error', cv=10)
     print("cross validation scores:\n", cv)
     print("the average of the cross validation scores: ", cv.mean())
     
