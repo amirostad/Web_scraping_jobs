@@ -75,7 +75,7 @@ Furthermore, corss validation with negative RMSE criterion was used to quickly c
 Later, by using GridSearchCV, the parameters for the model were optimized and the final best fitted model was selected.
 3 different metrics for the final best fitted model were calculated as follows:
 - MAE = 0.2868
-- RMSE = 
+- RMSE = 2.26
 - R<sup>2</sup>score = 0.99
 
 ## Acknowledgments
