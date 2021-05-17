@@ -70,13 +70,19 @@ In this project, data scientist job openings will be web scraped and compared in
 
 
 ## Modeling
-I used one-hot encoding for the categorical features. Therefore, there was quite a bit of sparsity in the features matrix (lots of zeros). Considering the sparsity and its many other strengths, I utilized random forest regression. 
+I used one-hot encoding for the categorical features. Therefore, there was quite a bit of sparsity in the features matrix (lots of zeros). Considering the sparsity and its many other strengths, I utilized random forest regression.
+
 Furthermore, corss validation with negative RMSE criterion was used to quickly check the effectiveness of the model.
 Later, by using GridSearchCV, the parameters for the model were optimized and the final best fitted model was selected.
+
+## Model performance
 3 different metrics for the final best fitted model were calculated as follows:
 - MAE = 0.2868
 - RMSE = 2.26
 - R<sup>2</sup>score = 0.99
+
+## COMING SOON:
+<span style="color:red">More models and production section (flask endpoint) will be added soon!</span>
 
 ## Acknowledgments
 This project was inspired by https://github.com/PlayingNumbers/ds_salary_proj
