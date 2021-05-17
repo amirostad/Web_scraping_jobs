@@ -45,5 +45,12 @@ In this project, data scientist job openings will be web scraped and compared in
 - Title column was created to show the different categories for the posted roles such as data engineer, deep learning, analyst, ...
 - For all the column if the corresponding value was not available, -1 was assigned for the particular position
 
+## EDA
+- Numerical variables: their distribution and correlations were checked
+https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/1_histograms.png
+
+- Categorical variables: their value counts were checked
+
+
 ## Acknowledgments
 This project was inspired by https://github.com/PlayingNumbers/ds_salary_proj
