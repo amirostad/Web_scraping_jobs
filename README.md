@@ -32,7 +32,18 @@ In this project, data scientist job openings will be web scraped and compared in
     - Sector
     - Revenue
 
-
+## Data cleaning
+- Parsed the salary estimates out of the raw data
+- Created "Hourly" and "Employer_provided" columns to distinguish if a salary estimate was based on hourly rates and provided by the employer, respectively
+- Created minimum and maximum salary columns for the positions and parsed the corresponding values out of the raw dat
+- Created average salary column
+- Cleaned the company name column by removing the ratings
+- Extracted the state where each position is located. Created a state column
+- Created founded column which contains the year each company was founded
+- Using the founded column, the company age column was created
+- Seniority column was created to show if a position was a senior role
+- Title column was created to show the different categories for the posted roles such as data engineer, deep learning, analyst, ...
+- For all the column if the corresponding value was not available, -1 was assigned for the particular position
 
 ## Acknowledgments
 This project was inspired by https://github.com/PlayingNumbers/ds_salary_proj
