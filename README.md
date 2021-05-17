@@ -47,11 +47,13 @@ In this project, data scientist job openings will be web scraped and compared in
 
 ## EDA
 - Numerical variables: their distribution and correlations were checked
+
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/1_histograms.png "histograms")
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/2_correlation_heatmap.png "correlation heatmap")
 
 
 - Categorical variables: their value counts were checked
+
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/3_jobtitles.png "job titles")
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/4_jobseniority.png "job seniority")
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/5_industry.png "industry")
