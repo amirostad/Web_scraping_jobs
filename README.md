@@ -46,13 +46,13 @@ In this project, data scientist job openings will be web scraped and compared in
 - For all the column if the corresponding value was not available, -1 was assigned for the particular position
 
 ## EDA
-- Numerical variables: their distribution and correlations were checked
+- Numerical variables: their distribution and correlations were checked as shown in the following images
 
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/1_histograms.png "histograms")
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/2_correlation_heatmap.png "correlation heatmap")
 
 
-- Categorical variables: their value counts were checked
+- Categorical variables: their value counts were checked as shown in the following images
 
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/3_jobtitles.png "job titles")
 
@@ -77,12 +77,12 @@ Later, by using GridSearchCV, the parameters for the model were optimized and th
 
 ## Model performance
 3 different metrics for the final best fitted model were calculated as follows:
-- MAE = 0.2868
-- RMSE = 2.26
-- R<sup>2</sup>score = 0.99
+- MAE = 22.32
+- RMSE = 28.61
+- R<sup>2</sup>score = 0.40
 
 ## Feature importance
-The most importance features turned out to be as shown in the following image.
+The most importance features, i.e. features with the highest impact on the response variable, are showin below.
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/10_feature_importance.png "feature importance")
 
 ## COMING SOON:
