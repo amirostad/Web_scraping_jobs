@@ -4,7 +4,6 @@ Created on Wed May 12 11:00:38 2021
 
 @author: Amir Ostad
 """
-import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set_style('dark')

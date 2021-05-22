@@ -119,13 +119,15 @@ def get_clean_dataframe(num_jobs=100):
     
     #%% Drop unwanted columns, reorder the remining columns, and write the dataframe to csv format
     
+    # Max_salary and Min_salary are dropped too because we calculated the
+    # response variable, Average_salary, by using them.
     df.drop(['Company Name', 'Location', 'Founded', 'Job Title', 
-             'Revenue'], inplace=True,
+             'Revenue', 'Min_salary', 'Max_salary'], inplace=True,
             axis=1)
     
     df = df.reindex(columns=['Average_salary', 'Title','Seniority', 
                              'Rating', 'Hourly', 'Employer_provided', 
-                             'Min_salary', 'Max_salary', 'Company_age', 
+                             'Company_age', 
                              'Industry', 'Sector', 'Type of ownership',
                              'Size', 'State'])
     
