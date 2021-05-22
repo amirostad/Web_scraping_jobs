@@ -7,7 +7,7 @@ In this project, data scientist job openings will be web scraped and compared in
 
 ## Project overview
 - The objective is to predict the salary of data scientist positions based on location, seniority, type of the company, industry, etc.
-- The dataset used in this project is a combination of dataset obtained from https://www.kaggle.com/andrewmvd/data-scientist-jobs and extra data scientist positions scraped by glassdoor scraper uploaded to this repository
+- The dataset used in this project is a combination of dataset obtained from https://www.kaggle.com/andrewmvd/data-scientist-jobs and extra data scientist positions scraped by  glassdoor scraper developed and uploaded to this repository
 - Cleaned dataset of over 5500 data scientist positions
 - Created and optimized Random Forest Regression model by using GridSearchCV to reach MAE=0.29, RMSE=2.26, and R<sup>2</sup>score=0.99
 - Model was saved using joblib library
@@ -18,7 +18,7 @@ In this project, data scientist job openings will be web scraped and compared in
 - For more info, see requirements.txt file
 
 ## Data collection
-- The dataset from kaggle was used in combination with over 1500 data scientist positions scraped with the glassdoor_scraper in this repository. 
+- The dataset from kaggle was used in combination with over 1500 data scientist positions scraped with the glassdoor_scraper developed and uploaded in this repository. 
 - The glassdoor scraper in https://github.com/PlayingNumbers/ds_salary_proj was used as a base scraper but it had many broken HTML tags and defective Xpaths so a good portion of the Selenium code had to be revised.
 - The following features were scraped for each position:
     - Salary Estimate
@@ -82,7 +82,7 @@ Later, by using GridSearchCV, the parameters for the model were optimized and th
 - R<sup>2</sup>score = 0.40
 
 ## Feature importance
-The most importance features, i.e. features with the highest impact on the response variable, are showin below.
+The most importance features, i.e. features with the highest impact on the response variable, are shown below.
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/10_feature_importance.png "feature importance")
 
 ## COMING SOON:
