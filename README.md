@@ -87,6 +87,28 @@ Later, by using GridSearchCV, the parameters for the model were optimized and th
 The most importance features, i.e. features with the highest impact on the response variable, are shown below.
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/10_feature_importance.png "feature importance")
 
+The top 20 features in the above plot are:
+1. State_CA: this feature is equal to 1 if the position is located in California and 0 for other locations
+2. State_NY: this feature is equal to 1 if the position is located in New York and 0 for other locations
+3. Company_age: how old the company posting the position is
+4. Rating: rating of the company on glassdoor
+5. Employer_provided: this feature is equal to 1 if the salary data for the position is provided by the employer otherwise 0
+6. Title_data scientist: this feature is equal to 1 if the position title contains "data scientist"
+7. Sector_Information Technology: this feature is equal to 1 if the company operates in "Information Technology" sector
+8. Seniority_senior: this feature is equal to 1 if the position is a senior level one
+9. Title_other: this feature is equal to 1 if the position is in the data science field but the exact title is unknown
+10. State_FL: this feature is equal to 1 if the position is located in Florida and 0 for other locations
+11. State_IL: this feature is equal to 1 if the position is located in Illinois and 0 for other locations
+12. Type of ownership_Company - Public: this feature is equal to 1 if the company is public
+13. Title_data engineer: this feature is equal to 1 if the position title contains "data engineer"
+14. Size_10000+ employees: this feature is equal to 1 if the company has more than 10,000 employees
+15. State_OH: this feature is equal to 1 if the position is located in Ohio and 0 for other locations
+16. Seniority_other: this feature is equal to 1 if the seniority level of the position is not explicitly mentioned either "senior" or "junior"
+17. State_NJ: this feature is equal to 1 if the position is located in New Jersey and 0 for other locations
+18. Type of ownership_Company - Private: this feature is equal to 1 if the company is private
+19. State_MI: this feature is equal to 1 if the position is located in Michigan and 0 for other locations
+20. Size_51 to 200 employees: this feature is equal to 1 if the company has 51–200 employees
+
 ## COMING SOON:
 <span style="color:red">More models and production section (flask endpoint) will be added soon!</span>
 
