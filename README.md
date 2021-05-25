@@ -51,6 +51,10 @@ In this project, data scientist job openings will be web scraped and compared in
 - Numerical variables: their distribution and correlations were checked as shown in the following images
 
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/1_histograms.png "histograms")
+
+In the above plot, the distributions of numerical features and the response variable (Average_salary) are displayed.
+It can be seen that the average salary distribution is nearly a normal distribution but skewed to the left. Also, the salary numbers are divided by 1000 and are in USD.
+
 ![alt_text](https://github.com/amirostad/Web_scraping_jobs/blob/master/plots/2_correlation_heatmap.png "correlation heatmap")
 
 
