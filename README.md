@@ -125,6 +125,8 @@ Additionally, “Information Technology” is the sector where data scientists a
 
 Another take from the above plot is that the larger companies pay higher salaries compared to smaller ones.
 
+It is important to note that these results are purely based on the scraped data from glassdoor and also do not consider the median income, expense, and job per capita of different states. Thus, one needs to considers the results of this analysis and additional factors to more thoroughly compare the living conditions of data scientists in different locations.
+
 ## COMING SOON:
 <span style="color:red">More models and production section (flask endpoint) will be added soon!</span>
 
