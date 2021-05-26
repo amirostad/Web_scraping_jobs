@@ -86,8 +86,8 @@ Later, by using GridSearchCV, the parameters for the model were optimized and th
 
 ## Model performance
 3 different metrics for the final best fitted model were calculated as follows:
-- MAE = 22.32
-- RMSE = 28.61
+- MAE = 22.40
+- RMSE = 28.72
 - R<sup>2</sup>score = 0.40
 
 ## Feature importance
@@ -115,6 +115,15 @@ The top 20 features in the above plot are:
 18. Type of ownership_Company - Private: this feature is equal to 1 if the company is private
 19. State_MI: this feature is equal to 1 if the position is located in Michigan and 0 for other locations
 20. Size_51 to 200 employees: this feature is equal to 1 if the company has 51–200 employees
+
+## Evaluation of results
+As shown above, the most important features are State_CA, State_NY, Company_age, and so on. So I can be said that according to this model, data scientists are paid more in California, New York, and Florida, respectively.
+
+Also, the ratings of companies are an important factor in data scientists salaries.
+
+Additionally, “Information Technology” is the sector where data scientists are paid the highest salaries according to the above plot.
+
+Another take from the above plot is that the larger companies pay higher salaries compared to smaller ones.
 
 ## COMING SOON:
 <span style="color:red">More models and production section (flask endpoint) will be added soon!</span>
