@@ -112,6 +112,7 @@ def get_clean_dataframe(num_jobs=100):
     #%% Size
     
     df['Size'].replace('Unknown', '-1', regex=True, inplace=True)
+    df['Size'] = df['Size'].str.lower()
     
     #%% Type of ownership
     
