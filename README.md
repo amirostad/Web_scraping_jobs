@@ -1,6 +1,7 @@
 # Web Scraping and Predicting Job Salaries
 In this project, data scientist job openings will be web scraped and compared in terms of earnings.
 
+## Publication
 Here is the corresponding blog post which was published through GeekCulture publication: [data_science_salaries](https://amirostad.medium.com/use-data-science-to-predict-data-scientists-earnings-641849c7270)
 
 ## Motivation
