@@ -1,6 +1,8 @@
 # Web Scraping and Predicting Job Salaries
 In this project, data scientist job openings will be web scraped and compared in terms of earnings.
 
+Here is the corresponding post on medium.com as well: [data_science_salaries](https://amirostad.medium.com/use-data-science-to-predict-data-scientists-earnings-641849c7270)
+
 ## Motivation
 1. Can a data scientist's salary be predicted and if so how accurately?
 2. What features are important in predicting a data scientist's salary?
